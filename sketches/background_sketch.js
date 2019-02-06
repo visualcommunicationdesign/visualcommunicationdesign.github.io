@@ -1,21 +1,21 @@
 var canvas;
 var mic;
 
-var elmnt = document.getElementById("content");
-var scrollHoogte = elmnt.scrollHeight;
-var scrollBreedte = elmnt.scrollWidth;
+//var elmnt = document.getElementById("content");
+//var scrollHoogte = elmnt.scrollHeight;
+//var scrollBreedte = elmnt.scrollWidth;
 
 function windowResized() {
   //console.log('resized');
-  resizeCanvas(windowWidth, scrollHoogte);
+  resizeCanvas(windowWidth, windowHeight);
 }
 
 function setup() {
-  canvas = createCanvas(windowWidth, scrollHoogte);
+  canvas = createCanvas(windowWidth, windowHeight);
   canvas.position(0, 0);
-  canvas.style('z-index', '-1');
-   mic = new p5.AudioIn();
-   mic.start();
+  //canvas.style('z-index', '-1');
+  // mic = new p5.AudioIn();
+  // mic.start();
   //background(175);
 }
 
@@ -27,6 +27,8 @@ function draw() {
   if (mouseIsPressed) {
     line(pmouseX, pmouseY, mouseX, mouseY);
   }
-   var vol = mic.getLevel();
-   ellipse(width / 2, height / 2, vol * width);
+
+  
+  // var vol = mic.getLevel();
+  // ellipse(width / 2, height / 2, vol * width);
 }
