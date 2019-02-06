@@ -1,8 +1,5 @@
-title: Visual Communication Designnn
-menus:
-  header:
-    title: Home
-    weight: 1
+title: Visual Communication Design
+menus: header
 description: Course information
 theme: jekyll-theme-cayman
 github:
