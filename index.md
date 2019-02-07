@@ -33,7 +33,7 @@ The best thing to do is go to [p5.js tutorial playlist from The Coding Train](ht
 Nevertheless, if you simply have too tittle time, you could watch fragments from the tutorials that I 'cut' (using youtube's embedding options). In most cases, I skipped the (quite lucid) fragments of Daniel Shiffman explaining theory on the whiteboard. 
 
 
-</div>
+
 
 
 1.2: p5.js Web Editor (Part 1, 0:00-5:04)
@@ -70,3 +70,5 @@ Nevertheless, if you simply have too tittle time, you could watch fragments from
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nicMAoW6u1g?start=450&end=580" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 2.5: The random() Function (Part 1, 9:00-11:00)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nfmV2kuQKwA?start=540&end=660" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
