@@ -1,14 +1,12 @@
-<div id="myDIV">
-  <div id="content">Some content..</div>
-</div>
+
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.1/p5.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.1/addons/p5.sound.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.1/addons/p5.dom.js"></script>
 <script type="text/javascript" src="sketches/background_sketch.js"></script>
-<div id="content">
+<div id="content" markdown="1">
 
-# Introductionnn
+# Introduction
 
 In this course your will learn how to **analyse**, **evaluate** and **create** various forms of visual communication. The analysis should help you *predict*, while the evaluation should help you *confirm* how people perceive and experience images. 
 
