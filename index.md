@@ -1,10 +1,14 @@
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.1/p5.js"></script>
+<div id="myDIV">
+  <div id="content">Some content..</div>
+</div>
 
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.1/p5.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.1/addons/p5.sound.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.1/addons/p5.dom.js"></script>
 <script type="text/javascript" src="sketches/background_sketch.js"></script>
+<div id="content">
 
-# Introduction
+# Introductionnn
 
 In this course your will learn how to **analyse**, **evaluate** and **create** various forms of visual communication. The analysis should help you *predict*, while the evaluation should help you *confirm* how people perceive and experience images. 
 
@@ -29,6 +33,10 @@ Besides watching videos, the best things to do are
 The best thing to do is go to [p5.js tutorial playlist from The Coding Train](https://www.youtube.com/user/shiffman/playlists?shelf_id=14&view=50&sort=dd) and watch all videos in the [1-7: Foundations of Programming in Javascript](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA). I've seen all of them, and they are super usefull and enjoyable. 
 
 Nevertheless, if you simply have too tittle time, you could watch fragments from the tutorials that I 'cut' (using youtube's embedding options). In most cases, I skipped the (quite lucid) fragments of Daniel Shiffman explaining theory on the whiteboard. 
+
+
+</div>
+
 
 1.2: p5.js Web Editor (Part 1, 0:00-5:04)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MXs1cOlidWs?start=0&end=304" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
