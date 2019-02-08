@@ -3,8 +3,8 @@
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.1/p5.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.1/addons/p5.sound.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.1/addons/p5.dom.js"></script>
-<script type="text/javascript" src="sketches/background_sketch.js"></script>
-<div id="content" markdown="1">
+<!--<script type="text/javascript" src="sketches/background_sketch.js"></script>
+<div id="content" markdown="1">-->
 
 # Introduction
 
@@ -43,4 +43,4 @@ Besides watching videos, the best things to do are
 
 
 
-</div>
+<!--</div>-->
