@@ -8,12 +8,13 @@ var scrollHoogte = elmnt.scrollHeight;
 
 function windowResized() {
   //console.log('resized');
-  resizeCanvas(windowWidth, windowHeight);
+  resizeCanvas(windowWidth, scrollHoogte);
 }
 
 function setup() {
-  canvas = createCanvas(windowWidth, windowHeight);
+  canvas = createCanvas(windowWidth, scrollHoogte);
   canvas.position(0, 0);
+  canvas.style('z-index',-1)
   t = 0;
   //canvas.style('z-index', '-1');
   // mic = new p5.AudioIn();
@@ -35,4 +36,5 @@ function draw() {
   noStroke();
   fill(r, g, b);
   ellipse(x, y, 120, 120);
+  t = t + 0.05;
 }
