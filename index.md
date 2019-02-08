@@ -13,7 +13,11 @@ In this course your will learn how to **analyse**, **evaluate** and **create** v
 # Analysis and evaluation
 
 For the theory about perception we will use a reader/book that is currently in draft status. 
-[Here](https://homepage.tudelft.nl/w3s80/VCD/VCD_wijntjes_intro.pdf) you can download the pdf of the introduction (~10mb) and [here](https://homepage.tudelft.nl/w3s80/VCD/VCD_wijntjes.pdf) you can download the password projected version (you'll get the password in class). 
+[Here](https://homepage.tudelft.nl/w3s80/VCD/VCD_wijntjes_intro.pdf) you can download the pdf of the introduction (~10mb) and [here](https://homepage.tudelft.nl/w3s80/VCD/VCD_wijntjes_full.pdf) you can download the password 
+projected version (you'll get the password in class)
+
+
+
 
 # Design (Sketching with P5.js)
 
