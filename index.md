@@ -34,7 +34,7 @@ Below you will find instructions to learn how you can code using P5.js, but befo
 
 
 <!---[P5.js](https://p5js.org) -->
-[Here](P5.md]) will find links to P5 video tutorials by the creative coding genius [Daniel Shiffman](https://shiffman.net/). Be aware that some older videos use a different coding interface, you should just do everything in the new [P5 online editor](https://editor.p5js.org). 
+[Here](P5.md) will find links to P5 video tutorials by the creative coding genius [Daniel Shiffman](https://shiffman.net/). Be aware that some older videos use a different coding interface, you should just do everything in the new [P5 online editor](https://editor.p5js.org). 
 
 Besides watching videos, the best things to do are
 * Check out examples in the online editor
