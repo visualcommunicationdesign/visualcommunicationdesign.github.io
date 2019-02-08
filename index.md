@@ -13,15 +13,14 @@ In this course your will learn how to **analyse**, **evaluate** and **create** v
 # Analysis and evaluation
 
 For the theory about perception we will use a reader/book that is currently in draft status. 
-[Here](https://homepage.tudelft.nl/w3s80/VCD/VCD_wijntjes_intro.pdf) you can download the pdf of the introduction (~10mb) and [here](https://homepage.tudelft.nl/w3s80/VCD/VCD_wijntjes_full.pdf) you can download the password 
-projected version (you'll get the password in class)
+[Here](https://homepage.tudelft.nl/w3s80/VCD/VCD_wijntjes_intro.pdf) you can download the pdf of the introduction (about 10mb) and [here](https://homepage.tudelft.nl/w3s80/VCD/VCD_wijntjes_full.pdf) you can download the password projected version (you'll get the password in class).
 
 
 
 
 # Design (Sketching with P5.js)
 
-We will use P5.js for several reasons. When learning visual (interaction) design, there is always the difficult issue of what kind of platform/software to use. There is a wide spectrum ranging from off-the-shelf interaction prototyping software such as Figma or Axure on the one side, and purely coding (e.g. HTML5 etc) on the other hand. 
+We will use P5.js for several reasons. When learning visual (interaction) design, there is always the difficult issue of what kind of platform/software to use. There is a wide spectrum ranging from off-the-shelf interaction prototyping software on the one side, and purely coding (e.g. HTML5 etc) on the other hand. 
 
 P5.js seems to be nicely in the middle. On the one hand, it is relatively easy to generate interesting visuals. On the other hand, it can be a good introduction about how things on the web are organized. But **most importantly** using P5.js is really what *sketching* is about: a creative ping-pong game between your mind and the world where many serendipitous occur leading to (literally) unimaginable outcomes. Further advantages include 1) free, 2) great community of artists and designers, 3) access to a wide variety of javascript plugins including machine learning, 4) concrete result because you generate an HTML page (or you can embed it wither via iFrame or just as a javascript). 
 
@@ -42,6 +41,6 @@ Besides watching videos, the best things to do are
 * Check out (examples in on p5 website)[https://p5js.org/examples/]
 * Check out the (reference page)[https://p5js.org/reference/]
 
-At start you will learn how to put simple shapes like circles and rectangles onto a 'canvas'. 
+
 
 </div>
