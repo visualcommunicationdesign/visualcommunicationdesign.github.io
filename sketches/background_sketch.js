@@ -14,7 +14,7 @@ function windowResized() {
 function setup() {
   canvas = createCanvas(windowWidth, scrollHoogte);
   canvas.position(0, 0);
-  canvas.style('z-index',-1)
+  //canvas.style('z-index',-1)
   t = 0;
   //canvas.style('z-index', '-1');
   // mic = new p5.AudioIn();
@@ -25,9 +25,9 @@ function setup() {
 
 
 function draw() {
-  background(255,5);
+  //background(255,5);
 
-  var x = width * noise(t);
+  /*var x = width * noise(t);
   var y = height * noise(t+5);
   var r = 255 * noise(t+10);
   var g = 255 * noise(t+15);
@@ -37,4 +37,7 @@ function draw() {
   fill(r, g, b);
   ellipse(x, y, 120, 120);
   t = t + 0.05;
+  */
+
+  ellipse(mouseX, mouseY, 120, 120);
 }
