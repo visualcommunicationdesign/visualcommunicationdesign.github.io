@@ -6,40 +6,32 @@
 <!--<script type="text/javascript" src="sketches/background_sketch.js"></script>-->
 <div id="content" markdown="1">
 
-# Introduction
 
-In this course your will learn how to **analyse**, **evaluate** and **create** various forms of visual communication. The analysis should help you *predict* how people perceive and experience images. You will learn about visual perception and communication (creation of images) and the relation between them. The evaluation should help you *confirm* how people perceive and experience images. This implies empirical investigations using experimental paradigms from experimental psychology. Lastly, we will (obviously) also design visuals ourselves. Because many design students already have quite some sketching experience, and likely used video and photography in previous courses, we will focus on a relatively unexplored technique: sketching with code. Specifically we will use the P5.js, a JavaScript library aimed at artists and designers. 
-
-# Analysis and evaluation
-
-For the theory about perception we will use a reader/book that is currently in draft status. 
-[Here](https://homepage.tudelft.nl/w3s80/VCD/VCD_wijntjes_intro.pdf) you can download the pdf of the introduction (about 10mb) and [here](https://homepage.tudelft.nl/w3s80/VCD/VCD_wijntjes_full.pdf) you can download the password projected version (you'll get the password in class).
+## Course coordinators
+Maarten Wijntjes | M.W.A.Wijntjes@tudelft.nl | Office C-3-260
+Catelijne van Middelkoop | C.vanMiddelkoop@tudelft.nl | Office C-3-100
 
 
+## Learning objectives
 
+1. **Analyse** visual communication designs in terms of perception, (historical/cultural/use) context and technique.
+2. Formulate hypotheses about communicative properties and empirically **evaluate** these. 
+3. Learn to read, adept and write P5.js code to **create** interactive visual communication based on theory and data. 
 
-# Design (Sketching with P5.js)
+### Analyse
+During the lectures you will learn about the production and perception of visual information. You will learn about visual perception and also about history of art, graphic design and interfaces. The aim is that after this course, you can analyse any form of visual communication on the basis of
+principles of perception
+historical/cultural context
+technical production
 
-We will use P5.js for several reasons. When learning visual (interaction) design, there is always the difficult issue of what kind of platform/software to use. There is a wide spectrum ranging from off-the-shelf interaction prototyping software on the one side, and purely coding (e.g. HTML5 etc) on the other hand. 
+### Evaluate
+How do you know your design intentions are met? What are the communicative properties of designs? This can be discovered by doing experiments. We will discuss various ways of evaluating your design that are typical for VCD applications. Much theory of perception is based on experiments like eye tracking or the speed and accuracy of finding or recognising/understanding information. While discussing the theory we will emphasise the methods used and translate them for VCD purposes. At the end of the course, you should be able to 
+propose a strategy how you would ideally set up an evaluation
+conduct a short experiment, analyse and interpret data with respect to theory
 
-P5.js seems to be nicely in the middle. On the one hand, it is relatively easy to generate interesting visuals. On the other hand, it can be a good introduction about how things on the web are organized. But **most importantly** using P5.js is really what *sketching* is about: a creative ping-pong game between your mind and the world where many serendipitous occur leading to (literally) unimaginable outcomes. Further advantages include 1) free, 2) great community of artists and designers, 3) access to a wide variety of javascript plugins including machine learning, 4) concrete result because you generate an HTML page (or you can embed it wither via iFrame or just as a javascript). 
+### Create
+There are many ways to create visual information, as you will learn throughout the course. And since you are a master student you probably did some courses on sketching, photography, etc. Therefor we will focus on a different type of technique that is both very relevant for interaction design but also nicely supplemental to the techniques you already know: creating images through code. We will use P5.js, a wide used and documented language used by artists and designers. 
 
-## How to sketch
-
-Below you will find instructions to learn how you can code using P5.js, but before that let me quickly highlight the various ways you could use P5.js, specifically for this VCD course. 
-* Besides using simple graphical elements, you can also use pictures of fragments of pictures as elements. Cut something out and save as .png so the background is rendered transparent. Also, you could use .svg files, which are vector graphics for the web. 
-* Explore all the types of input. It all starts with (mouseX,mouseY) but there are many other cool input variables such as the orientation of your smart phone, microphone sound level and even camera input (including machine learning stuff like face tracking). 
-* It is possible to sketch both 2D and 3D (with webGL). As you cab load images, you can also load 3D files (obj) and do interesting things with these. 
-* As data input, it is possible to load JSON files, which can be used for data visualization.
-
-
-<!---[P5.js](https://p5js.org) -->
-[Here](P5.md) will find links to P5 video tutorials by the creative coding genius [Daniel Shiffman](https://shiffman.net/). Be aware that some older videos use a different coding interface, you should just do everything in the new [P5 online editor](https://editor.p5js.org). 
-
-Besides watching videos, the best things to do are
-* Check out examples in the online editor
-* Check out (examples in on p5 website)[https://p5js.org/examples/]
-* Check out the (reference page)[https://p5js.org/reference/]
 
 
 
