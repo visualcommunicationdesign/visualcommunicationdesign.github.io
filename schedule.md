@@ -1,7 +1,7 @@
 
 
 --- | --- | --- | ---
-#week* | #date#	| #topic# | #place*
+**week** | **date**	| **topic** | **place**
 3.1 | 14-feb | Introduction | 15:45-17:30 | CT-CZ-E
 3.2 | 21-feb | Catelijne | 15:45-17:30 | CT-CZ-E
 3.3 | 28-feb | Visual machinery | 15:45-17:30 | CT-CZ-E
