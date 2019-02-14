@@ -18,7 +18,7 @@ Below you will find links to P5 video tutorials by the creative coding genius te
 
 Besides watching videos, the best things to do are
 * Check out examples in the online editor
-* Check out [examples in on p5 website]([)https://p5js.org/examples/)
+* Check out [examples in on p5 website](https://p5js.org/examples/)
 * Check out the [reference page](https://p5js.org/reference/)
 
 ## Coding train resources
