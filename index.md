@@ -9,7 +9,7 @@
 
 ## Course coordinators
 
-Maarten Wijntjes / ![wijntjes](/images/wijntjes.png) / Office C-3-260
+Maarten Wijntjes / ![wijntjes](/images/wijntjes.png =50x) / Office C-3-260
 
 Catelijne van Middelkoop / C.vanMiddelkoop@tudelft.nl  / Office C-3-100
 
