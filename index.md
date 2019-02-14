@@ -11,7 +11,7 @@
 
 Maarten Wijntjes / ![wijntjes](/images/wijntjes.png =50x) / Office C-3-260
 
-Catelijne van Middelkoop / C.vanMiddelkoop@tudelft.nl  / Office C-3-100
+Catelijne van Middelkoop / <img src="images/middelkoop.png" alt="drawing" height="16"/>  / Office C-3-100
 
 Mitchell van Zuijlen / m.j.p.vanzuijlen@tudelft.nl / Office C-2-090
 
