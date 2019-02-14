@@ -17,7 +17,7 @@
 ## To-do schedule
 
 --- | --- | --- | --- | --- | ---
-**week** 	| **date**	| **Book (read)** 	| **Evaluation ** 	| **P5 ** 			|	 **Deliver **
+**week** 	| **date**	| **Book (read)** 	| **Evaluation** 	| **P5** 			|	 **Deliver**
 3.1 	| 14-feb 		|  					|  					| 					| 
 3.2 	| 21-feb 		| Chapter 1 		| 					| Coding train 1-2 	| 
 3.3 	| 28-feb 		| Chapter 2 		|					| Coding train 3-4	|
