@@ -9,11 +9,11 @@
 
 ## Course coordinators
 
-Maarten Wijntjes / ![wijntjes](/images/wijntjes.png =50x) / Office C-3-260
+Maarten Wijntjes / <img src="images/wijntjes.png" alt="drawing" height="20"/>/ Office C-3-260
 
-Catelijne van Middelkoop / <img src="images/middelkoop.png" alt="drawing" height="16"/>  / Office C-3-100
+Catelijne van Middelkoop / <img src="images/middelkoop.png" alt="drawing" height="20"/>  / Office C-3-100
 
-Mitchell van Zuijlen / m.j.p.vanzuijlen@tudelft.nl / Office C-2-090
+Mitchell van Zuijlen /<img src="images/zuijlen.png" alt="drawing" height="20"/> / Office C-2-090
 
 
 ## Learning objectives
