@@ -13,6 +13,8 @@ Maarten Wijntjes / M.W.A.Wijntjes@tudelft.nl / Office C-3-260
 
 Catelijne van Middelkoop / C.vanMiddelkoop@tudelft.nl  / Office C-3-100
 
+Mitchell van Zuijlen / m.j.p.vanzuijlen@tudelft.nl / Office C-2-090
+
 
 ## Learning objectives
 
