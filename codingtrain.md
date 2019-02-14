@@ -27,8 +27,32 @@ The best thing to do is go to [p5.js tutorial playlist from The Coding Train](ht
 Nevertheless, if you have too tittle time, you can watch fragments from the tutorials that I 'cut' (using youtube's embedding options). In most cases, I skipped the (quite lucid) fragments of Daniel Shiffman explaining theory on the whiteboard. 
 
 ## Other P5/Javascript links
-Some examples sketches that you can find in the P5 online editor](https://editor.p5js.org):
-P5 online editor](https://editor.p5js.org)
+### Some examples sketches that you can find in the [P5 online editor](https://editor.p5js.org):
+Easy:
+* [Input : Mouse2D](https://editor.p5js.org/p5/sketches/HyvQNlymu7)
+* [Input : MouseIsPressed](https://editor.p5js.org/p5/sketches/HkOXEeJXOX)
+Varying complexity:
+* [Color : Linear Gradient ](https://editor.p5js.org/p5/sketches/HJvkVx1QOm)
+* [Hello P5 : animate](https://editor.p5js.org/p5/sketches/SJ4eNVlJ7dQ)
+* [Hello P5 : interactivity](https://editor.p5js.org/p5/sketches/BJmg44e17d7) 
+* [Hello P5 : shapes](https://editor.p5js.org/p5/sketches/By-x44gJQum)
+* [Input : Storing Input](https://editor.p5js.org/p5/sketches/Skjm4gJQ_Q) 
+* [Input : Mouse Functions](https://editor.p5js.org/p5/sketches/BJKQVg1mum) 
+* [Input : Easing](https://editor.p5js.org/p5/sketches/r14XVeyXum) 
+* [Input : Constrain](https://editor.p5js.org/p5/sketches/H1Q7VlJm_X) 
+* [Input : Clock](https://editor.p5js.org/p5/sketches/B1GXVe17_Q) 
+* [3D : materials](https://editor.p5js.org/p5/sketches/SyXNxym_Q) 
+* [3D : sine cosine in 3D](https://editor.p5js.org/p5/sketches/B1QefNeyQuX) 
+* [Dom : Drop](https://editor.p5js.org/p5/sketches/rJ_GExJmdQ) 
+* [Dom : Slider](https://editor.p5js.org/p5/sketches/r1MMElyX_7) 
+
+### And there is more...
+* [Nice javascript library, do not know whether this is possible to integrate but woth a look!](https://handsfree.js.org/#/)
+* [Having a sketch in the background](https://www.youtube.com/watch?v=OIfEHD3KqCg)
+* [Video stuff](https://creative-coding.decontextualize.com/video/)
+* [Posenet tutorial using ml5](https://www.youtube.com/watch?v=EA3-k9mnLHs)
+* [Cool artist](http://ravenkwok.com/)
+* [Cool noise info from cool designer/artist](http://genekogan.com/code/p5js-perlin-noise/)
 
 
 ## Cut videos of P5 introduction on coding train:
