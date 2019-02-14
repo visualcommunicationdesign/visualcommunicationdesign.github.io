@@ -18,8 +18,8 @@ Below you will find links to P5 video tutorials by the creative coding genius te
 
 Besides watching videos, the best things to do are
 * Check out examples in the online editor
-* Check out (examples in on p5 website)[https://p5js.org/examples/]
-* Check out the (reference page)[https://p5js.org/reference/]
+* Check out [examples in on p5 website]([)https://p5js.org/examples/)
+* Check out the [reference page](https://p5js.org/reference/)
 
 ## Coding train resources
 The best thing to do is go to [p5.js tutorial playlist from The Coding Train](https://www.youtube.com/user/shiffman/playlists?shelf_id=14&view=50&sort=dd) and watch all videos in the [1-7: Foundations of Programming in Javascript](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA). I've seen all of them, and they are super usefull and enjoyable. 
