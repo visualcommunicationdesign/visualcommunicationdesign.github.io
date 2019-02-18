@@ -7,7 +7,13 @@ For the theory about perception we will use a reader/book that is currently in d
 
 
 # Assignment
-The assignment consists of 3 parts: analysis, evaluation and creation. We have a [draft](content/assignment_draft.pdf) available to, but we will make some slight changes in the next day(s). Furthermore, we will share the list of images you will use for the assignment also in a few days. 
+The assignment consists of 3 parts: analysis, evaluation and creation. You can read everything in the pdf link below. Furthermore, you need to choose 10 works from a total of 30, from every column you need to choose 1. 
+* [Assignment](content/assignment_final.pdf)
+* [Source material](content/SourceMaterial.zip)
+
+
+
+We have a [draft](content/assignment_draft.pdf) available to, but we will make some slight changes in the next day(s). Furthermore, we will share the list of images you will use for the assignment also in a few days. 
 
 # Lecture slides
 
