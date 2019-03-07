@@ -34,5 +34,4 @@
 3.9 	| 11-apr (15:30)| 	 				| 					| 					| Part 2
 3.10 	| 14-apr (19:30)| 					| 					|					| Part 3
 
-The deadlines for the DRAFT version of PART 3 is flexible. We need to select the assignments a few days before the lectures (4 and 11 April) and you can choose yourself which ones you wish to discuss. 
-
+Submitting a DRAFT is *optional*, the reason behind their 'deadline' is that we need them on the Monday before the Thursday lecture (where we discuss them).  If you want to hand in part 3 earlier, you can do hand it in April 1st (to be discussed April 4th, if you feel discussion on April 11 is late).
