@@ -12,7 +12,7 @@
 3.6 | 21-mrt | Pictorial spaces | 15:45-17:30 | [CT-CZ-E](https://educationrooms.tudelft.nl/zaleninfo.php?zid=140)
 3.7 | 28-mrt | Feedback  Part 1 drafts	 | 15:45-17:30 | [CT-CZ-E](https://educationrooms.tudelft.nl/zaleninfo.php?zid=140)
 3.8 | 4-apr  | Feedback  Part 2,3 drafts	 | 15:45-17:30 | [CT-CZ-E](https://educationrooms.tudelft.nl/zaleninfo.php?zid=140)
-3.9 | 11-apr | Feedback  Part 2,3 drafts	 | 15:45-17:30 | [CT-CZ-E](https://educationrooms.tudelft.nl/zaleninfo.php?zid=140)
+3.9 | 11-apr | Feedback  Part 3 drafts	 | 15:45-17:30 | [CT-CZ-E](https://educationrooms.tudelft.nl/zaleninfo.php?zid=140)
 3.10 | 15-apr	Presentations | 8:45-12:30 | Arena or 3me-CZ-C (?)
 
 
