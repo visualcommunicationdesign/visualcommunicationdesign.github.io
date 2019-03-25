@@ -27,7 +27,7 @@ The best thing to do is go to [p5.js tutorial playlist from The Coding Train](ht
 Nevertheless, if you have too tittle time, you can watch fragments from the tutorials that I 'cut' (using youtube's embedding options). In most cases, I skipped the (quite lucid) fragments of Daniel Shiffman explaining theory on the whiteboard. 
 
 ## P5 practical training document
-We have a 'living' google document that contains some assignments and tips we use(d) during practical training. 
+We have a 'living' [google document](https://docs.google.com/document/d/1c915I6NKQgd2nxTN5RPTbyldQd3b1rz27xt0y8RrCbo/edit?usp=sharing) that contains some assignments and tips we use(d) during practical training. 
 
 ## Other P5/Javascript links
 ### Some examples sketches that you can find in the [P5 online editor](https://editor.p5js.org):
