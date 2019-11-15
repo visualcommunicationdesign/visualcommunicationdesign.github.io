@@ -1,5 +1,5 @@
 
-## Lecture schedule
+## Lecture schedule (2019)
 
 --- | --- | --- | ---
 **week** | **date**	| **topic** | **place**
