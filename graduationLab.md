@@ -1,4 +1,6 @@
-# We have a number of graduation projects, which will be taken off line when we found a student who'll work on this. 
+# Graduation projects
+
+We have a number of graduation projects, which will be taken off line when we found a student who'll work on this. 
 
 ## Project 1
 
