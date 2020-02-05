@@ -6,15 +6,26 @@
 <!--<script type="text/javascript" src="sketches/background_sketch.js"></script>-->
 <div id="content" markdown="1">
 
-Welcome to the online syllabus for Visual Communciation Design, a mandatory course for Design for Interaction (DfI) Master program students and an elective for other programs. In this course we will study the relation between communciation and perception, learn how to conduct visual user studies and learn basics of code-based visual communication. These three facets are 
+Welcome to the online syllabus for Visual Communciation Design, a mandatory course for Design for Interaction (DfI) Master program students and an elective for other programs. In the course, we study visual communication from three perspectives: A) How does the brain process visual information? B) How can you empirically test visual communication? C) What are digital possibilities and tools to design visual communication? 
+
+These have been formulated in 3 learning objectives:
+1.	Understand visual communication design in terms of how it is perceived, how it is made (technique) and why it was made (historical/cultural/use).
+2.	Formulate hypotheses about communicative properties and empirically evaluate these.
+3.	Design a web-based interactive visual communication.
+
+The learning activities (assignments) each address a specific learning goal:
+1.	Identify the relevant perceptual mechanisms that play a role in a given set of designs and relate them to technique and context. 
+2.	Design and conduct a user test that quantifies the information communication.  
+3.	Learn to read, adept and write P5.js sketches into an interactive javascript prototype. 
 
 
-# Theory
+
+# Material
 
 For the theory about perception we will use a reader/book that is currently in draft status. 
 * [Here](https://homepage.tudelft.nl/w3s80/VCD/VCD_wijntjes_intro.pdf) you can download the pdf of the introduction (about 10mb) 
 * [here](https://homepage.tudelft.nl/w3s80/VCD/VCD_wijntjes_full.pdf) you can download the password projected version (you'll get the password in class).
-* Aside from the material we are writing ourselves, there are various interesting books out there. My main recommendation would be [Visual Thinking for Design](https://www.amazon.com/dp/0123708966/ref=rdr_ext_tmb) by Colin Ware, which has been a major inspiration source when teaching this course over the past years. He also wrote the bit more advanced book [Information Visualization - Perception for Design](https://www.amazon.com/dp/0123814642/ref=rdr_ext_tmb) that you should certainly check out when diving deeper in the topic of data visualization. 
+* Furthermore, there are various interesting books out there. Our main recommendation would be [Visual Thinking for Design](https://www.amazon.com/dp/0123708966/ref=rdr_ext_tmb) by Colin Ware, which has been a major inspiration source when teaching this course over the past years. He also wrote the bit more advanced book [Information Visualization - Perception for Design](https://www.amazon.com/dp/0123814642/ref=rdr_ext_tmb) that you should certainly check out when diving deeper in the topic of data visualization. 
 * We also highly recommend Ways of Seeing by John Berger, either in [book form](https://www.amazon.co.uk/dp/014103579X/ref=rdr_ext_tmb) or from his [BBC series](https://youtu.be/0pDE4VX_9Kk).
 
 
