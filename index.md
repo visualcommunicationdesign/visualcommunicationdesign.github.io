@@ -8,14 +8,6 @@
 
 Welcome to the online syllabus for Visual Communciation Design, a mandatory course for Design for Interaction (DfI) Master program students and an elective for other programs. In this course we will study the relation between communciation and perception, learn how to conduct visual user studies and learn basics of code-based visual communication. These three facets are 
 
-## Course coordinators
-
-Maarten Wijntjes / <img src="images/wijntjes.png" alt="drawing" height="18"/>/ Office C-3-260
-
-Catelijne van Middelkoop / <img src="images/middelkoop.png" alt="drawing" height="18"/>  / Office C-3-100
-
-Mitchell van Zuijlen / <img src="images/zuijlen.png" alt="drawing" height="18"/> / Office C-2-090
-
 
 # Theory
 
@@ -49,5 +41,12 @@ There are many ways to create visual information, as you will learn throughout t
 
 -->
 
+## Course coordinators
+
+Maarten Wijntjes / <img src="images/wijntjes.png" alt="drawing" height="18"/>/ Office C-3-260
+
+Catelijne van Middelkoop / <img src="images/middelkoop.png" alt="drawing" height="18"/>  / Office C-3-100
+
+Mitchell van Zuijlen / <img src="images/zuijlen.png" alt="drawing" height="18"/> / Office C-2-090
 
 </div>
