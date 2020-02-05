@@ -6,10 +6,7 @@
 <!--<script type="text/javascript" src="sketches/background_sketch.js"></script>-->
 <div id="content" markdown="1">
 
-## Welcome...
-
-... to the online syllabus for the Design for Interaction (DfI) Master program of Industrial Design Engineering at TU Delft. 
-
+Welcome to the online syllabus for Visual Communciation Design, a mandatory course for Design for Interaction (DfI) Master program students of Industrial Design Engineering at TU Delft, and other enthusiasts. In this course you will learn 
 
 ## Course coordinators
 
