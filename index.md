@@ -6,7 +6,7 @@
 <!--<script type="text/javascript" src="sketches/background_sketch.js"></script>-->
 <div id="content" markdown="1">
 
-Welcome to the online syllabus for Visual Communciation Design, a mandatory course for Design for Interaction (DfI) Master program students of Industrial Design Engineering at TU Delft, and other enthusiasts. In this course you will learn 
+Welcome to the online syllabus for Visual Communciation Design, a mandatory course for Design for Interaction (DfI) Master program students and an elective for other programs. In this course we will study the relation between communciation and perception, learn how to conduct visual user studies and learn teh basics of code-based visual communication. 
 
 ## Course coordinators
 
