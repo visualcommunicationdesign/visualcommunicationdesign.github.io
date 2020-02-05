@@ -30,6 +30,8 @@ Nevertheless, if you have too tittle time, you can watch fragments from the tuto
 We have a 'living' [google document](https://docs.google.com/document/d/1c915I6NKQgd2nxTN5RPTbyldQd3b1rz27xt0y8RrCbo/edit?usp=sharing) that contains some assignments and tips we use(d) during practical training. 
 
 ## Other P5/Javascript links
+
+<!--
 ### Some examples sketches that you can find in the [P5 online editor](https://editor.p5js.org):
 Easy:
 * [Input : Mouse2D](https://editor.p5js.org/p5/sketches/HyvQNlymu7)
@@ -50,6 +52,9 @@ Varying complexity:
 * [Dom : Slider](https://editor.p5js.org/p5/sketches/r1MMElyX_7) 
 
 ### And there is more...
+-->
+
+
 * [Nice javascript library, do not know whether this is possible to integrate but woth a look!](https://handsfree.js.org/#/)
 * [Having a sketch in the background](https://www.youtube.com/watch?v=OIfEHD3KqCg)
 * [Video stuff](https://creative-coding.decontextualize.com/video/)
