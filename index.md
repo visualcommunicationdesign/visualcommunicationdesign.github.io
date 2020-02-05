@@ -6,6 +6,10 @@
 <!--<script type="text/javascript" src="sketches/background_sketch.js"></script>-->
 <div id="content" markdown="1">
 
+## Welcome...
+
+... to the online syllabus for the Design for Interaction (DfI) Master program of Industrial Design Engineering at TU Delft. 
+
 
 ## Course coordinators
 
@@ -14,6 +18,8 @@ Maarten Wijntjes / <img src="images/wijntjes.png" alt="drawing" height="18"/>/ O
 Catelijne van Middelkoop / <img src="images/middelkoop.png" alt="drawing" height="18"/>  / Office C-3-100
 
 Mitchell van Zuijlen / <img src="images/zuijlen.png" alt="drawing" height="18"/> / Office C-2-090
+
+
 
 
 ## Learning objectives
