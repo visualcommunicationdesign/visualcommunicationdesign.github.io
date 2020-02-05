@@ -6,6 +6,8 @@
 <!--<script type="text/javascript" src="sketches/background_sketch.js"></script>-->
 <div id="content" markdown="1">
 
+## Introduction
+
 Welcome to the online syllabus for Visual Communciation Design, a mandatory course for Design for Interaction (DfI) Master program students and an elective for other programs. In the course, we study visual communication from three perspectives: A) How does the brain process visual information? B) How can you empirically test visual communication? C) What are digital possibilities and tools to design visual communication? 
 
 These have been formulated in 3 learning objectives:
@@ -20,7 +22,9 @@ The learning activities (assignments) each address a specific learning goal:
 
 
 
-# Material
+## Course material
+
+We will upload our lecture slides on Brightspace and for the rest we will mainly use a reader. The writing of this reader is ongoing, so consider it a draft (including a number of spelling mistakes, repititions etc, but not serious failures!). 
 
 For the theory about perception we will use a reader/book that is currently in draft status. 
 * [Here](https://homepage.tudelft.nl/w3s80/VCD/VCD_wijntjes_intro.pdf) you can download the pdf of the introduction (about 10mb) 
