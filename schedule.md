@@ -1,8 +1,8 @@
 
-## Lecture schedule (2019)
+## Lecture schedule (2020)
 
 --- | --- | --- | ---
-**week** | **date**	| **topic** | **place**
+**week** | **date**	| **topic** | **time** | **place**
 3.1 | 13-feb | Introduction | 13:45-15:30 | [Pulse Hall 1](https://educationrooms.tudelft.nl/zaleninfo.php?zid=333)
 3.2 | 20-feb | Awareness | 15:45-17:30 | [IDE-Arena](https://educationrooms.tudelft.nl/zaleninfo.php?zid=285)
 3.3 | 27-feb | Machinery | 15:45-17:30 | [IDE-Arena](https://educationrooms.tudelft.nl/zaleninfo.php?zid=285)
@@ -12,7 +12,7 @@
 3.7 | 23-mrt | P5 practical training | 8:45-13:30 | [Wim Crouwel](https://educationrooms.tudelft.nl/zaleninfo.php?zid=164)
 3.8 | 30-mrt | P5 practical training | 8:45-13:30 | [Wim Crouwel](https://educationrooms.tudelft.nl/zaleninfo.php?zid=164)
 3.9 | 6-apr | P5 practical training | 8:45-13:30 | [Wim Crouwel](https://educationrooms.tudelft.nl/zaleninfo.php?zid=164)
-3.10 | 16-apr	Presentations | 138:45-17:30 | [Joost vd Grinten](https://educationrooms.tudelft.nl/zaleninfo.php?zid=1)
+3.10 | 16-apr |	Presentations | 13:45-17:30 | [Joost vd Grinten](https://educationrooms.tudelft.nl/zaleninfo.php?zid=1)
 
 <!--
 3.7 | 28-mrt | Feedback  Part 1 drafts	 | 15:45-17:30 | [CT-CZ-E](https://educationrooms.tudelft.nl/zaleninfo.php?zid=140)
