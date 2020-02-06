@@ -3,19 +3,25 @@
 
 --- | --- | --- | ---
 **week** | **date**	| **topic** | **place**
-3.1 | 14-feb | Introduction | 15:45-17:30 | [CT-CZ-E](https://educationrooms.tudelft.nl/zaleninfo.php?zid=140)
-3.2 | 21-feb | History | 15:45-17:30 | [CT-CZ-E](https://educationrooms.tudelft.nl/zaleninfo.php?zid=140)
-3.3 | 28-feb | Visual machinery | 15:45-17:30 | [CT-CZ-E](https://educationrooms.tudelft.nl/zaleninfo.php?zid=140)
-3.4 | 07-mrt | Visual awareness | 15:45-17:30 | [CT-CZ-E](https://educationrooms.tudelft.nl/zaleninfo.php?zid=140)
-3.5 | 14-mrt | Light and Colour | 15:45-17:30 | [CT-CZ-E](https://educationrooms.tudelft.nl/zaleninfo.php?zid=140)
-3.6 | 18-mrt | P5 practical training | 8:45-13:30 | [Wim Crouwel](https://educationrooms.tudelft.nl/zaleninfo.php?zid=164)
-3.6 | 21-mrt | Pictorial spaces | 15:45-17:30 | [CT-CZ-E](https://educationrooms.tudelft.nl/zaleninfo.php?zid=140)
+3.1 | 13-feb | Introduction | 13:45-15:30 | [Pulse Hall 1](https://educationrooms.tudelft.nl/zaleninfo.php?zid=333)
+3.2 | 20-feb | Awareness | 15:45-17:30 | [IDE-Arena](https://educationrooms.tudelft.nl/zaleninfo.php?zid=285)
+3.3 | 27-feb | Machinery | 15:45-17:30 | [IDE-Arena](https://educationrooms.tudelft.nl/zaleninfo.php?zid=285)
+3.4 | 05-mrt | Light and Colour  | 15:45-17:30 | [IDE-Arena](https://educationrooms.tudelft.nl/zaleninfo.php?zid=285)
+3.5 | 12-mrt | Pictorial spaces | 15:45-17:30 | [IDE-Arena](https://educationrooms.tudelft.nl/zaleninfo.php?zid=285)
+3.6 | 19-mrt | Guest lectures | 15:45-17:30 | [[IDE-Arena](https://educationrooms.tudelft.nl/zaleninfo.php?zid=285)
+3.7 | 23-mrt | P5 practical training | 8:45-13:30 | [Wim Crouwel](https://educationrooms.tudelft.nl/zaleninfo.php?zid=164)
+3.8 | 30-mrt | P5 practical training | 8:45-13:30 | [Wim Crouwel](https://educationrooms.tudelft.nl/zaleninfo.php?zid=164)
+3.9 | 6-apr | P5 practical training | 8:45-13:30 | [Wim Crouwel](https://educationrooms.tudelft.nl/zaleninfo.php?zid=164)
+3.10 | 16-apr	Presentations | 138:45-17:30 | [Joost vd Grinten](https://educationrooms.tudelft.nl/zaleninfo.php?zid=1)
+
+<!--
 3.7 | 28-mrt | Feedback  Part 1 drafts	 | 15:45-17:30 | [CT-CZ-E](https://educationrooms.tudelft.nl/zaleninfo.php?zid=140)
 3.8 | 4-apr  | Feedback  Part 2,3 drafts	 | 15:45-17:30 | [CT-CZ-E](https://educationrooms.tudelft.nl/zaleninfo.php?zid=140)
 3.9 | 11-apr | Feedback  Part 3 drafts	 | 15:45-17:30 | [CT-CZ-E](https://educationrooms.tudelft.nl/zaleninfo.php?zid=140)
-3.10 | 15-apr	Presentations | 8:45-12:30 | Arena or 3me-CZ-C (?)
+-->
 
 
+<!--
 ## To-do schedule
 
 --- | --- | --- | --- | --- | ---
@@ -35,3 +41,5 @@
 3.10 	| 14-apr (19:30)| 					| 					|					| Part 3
 
 Submitting a DRAFT is *optional*, the reason behind their 'deadline' is that we need them on the Monday before the Thursday lecture (where we discuss them).  If you want to hand in part 3 earlier, you can do hand it in April 1st (to be discussed April 4th, if you feel discussion on April 11 is late).
+
+-->
