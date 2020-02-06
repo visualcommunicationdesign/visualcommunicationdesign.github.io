@@ -50,6 +50,23 @@ After this part, you will be able to prepare, conduct and interpret empirical re
 ### Instructions
 Choose 2 images from the 6 you used in part 1. Formulate hypotheses for which you need empirical insight and explain the connection between hypothesis and paradigm (= the type of experiment). Use 2 different paradigms in each image, so you can also reflect on different types of information you can extract. 
 
+
+### Deliverables
+A 4 page pdf (2 pages per image) that includes the following (brief) sections:
+- Image name
+- Question (either a hypothesis or explorative question)
+- Experimental paradigm
+- Method (how many observers, what procedure etc)
+- Result (some text and graphs)
+- Discussion (interpretation of results)
+
+### Assessment criteria
+
+
+
+
+
+
 <!--
 The assignment consists of 3 parts: analysis, evaluation and creation. You can read everything in the pdf link below. Furthermore, you need to choose 10 works from a total of 30, from every column you need to choose 1. 
 * [Assignment](content/assignment_final_improved_for_clarity.pdf)
