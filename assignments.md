@@ -5,22 +5,24 @@
 You can use the reader (VCD) and our lectures as resource material. We will explain all the basics of perception and design. If you need more resources I recommend Visual Thinking for Design (perception & design) and Ways of Seeing (meaning).  
 -->
 
+The assignment consists of three parts, in the first you will apply your theoretical understanding to the **analysis** of images (works of art), in the second you will perform empirical **evaluations** and in the third part you will **create** code based visual based on the . Before starting the assignment, you will choose 6 images from our [selection](#selection). We carefully curated a set of interesting works that fit the course' context well. You will start with 6 for part 1, 2 for part 2 and 1 in part 3. 
+
 ## Part 1
 
 ### Introduction
 In this first part, you will analyse 6 images on the basis of theory we discussed in class. 
 
 ### Learning outcomes
-You will be able to interpret visual designs in the context of maker and sender. You will be able to name and explain technical elements of visual communication design (e.g. generative textures, motion parallax, colour analysis, etc). You will know how these technical elements relate to the human visual system (eyes and brain) and therefore predict what information is communicated. Lastly, you will gain understanding about the role of visual communication in historical and contemporary society, and learn about considerations and motivations of visual communication designers.  
+You will become critically aware of the visual world around you. You will be able to name and explain technical elements of visual communication design. You will know how these technical elements relate to the human visual system (eyes and brain) and therefore predict what information is communicated. Lastly, you will gain understanding about the role of visual communication in historical and contemporary society.  
 
 ### Instructions
 Gombrich (1972) distinguishes between the *expressive*, *arousing* and *descriptive* function of images. Furthermore, during the lectures and in the book we discussed the *perceptual*, *technical* and *contextual* ingredients of visual communication:
 * Expressive: What was the intention of the artist/designer? 
-* Arousing: Who is the target audience and how did/do they react? 
+* Arousing: Who is it made for and how is it received? 
 * Descriptive: What information is transmitted? 
 * Perceptual: What ingredients, such as color, texture and space are used?
-* Technical: What media are used, what is the ‘form’ of the design?
-* Contextual: What is the historical, social and cultural context?
+* Technical: What media are used, how is it made?
+* Contextual: What is the historical, social (economical) and cultural context?
 
 **First** you will analyse these elements individually for the images you choose. 
 **Second**, you will synthesize the analysis by discussing connections between any of the 6 elements. You are free in choosing which combinations, but try to use different ones for each image. 
@@ -64,7 +66,9 @@ A 4 page pdf (2 pages per image) that includes the following (brief) sections:
 
 
 
+## Selection
 
+![alt text](content/2020/Cecilia.jpg "Cecilia")
 
 
 <!--
