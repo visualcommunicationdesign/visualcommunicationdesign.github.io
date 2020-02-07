@@ -9,6 +9,8 @@ The assignment consists of three parts, in the first you will apply your theoret
 
 ![](images/overviewSelectionProcedure.png)
 
+## General assesment criteria
+
 
 ## Part 1
 
@@ -39,7 +41,7 @@ You are free to choose 6 images from the selection we made for you. We suggest t
 You can use one A4 for each image with a maximum of 250 words. Illustrations may support your argumentation. The 6 A4 pages should be bundled in 1 pdf file. Please make sure that this file does not exceed 20Mb. You can use ‘reduced filesize’ options in Adobe, for example. The purpose here is twofold: 1) my hard disk is limited and 2) some of you need to gain awareness of file size management, it will look unprofessional if you would send out a 200Mb portfolio, for example. 
 
 ### Assessment criteria
-For Part 2 we will use the following criteria:
+For Part 1 we will use the following criteria:
 * Relevant: does the analysis of the 6 elements apply to the image? 
 * Clear: is the analysis presented in an understandable way?
 * New: did you create novel insights (from the synthesis).
@@ -66,7 +68,7 @@ A 4 page pdf (2 pages per image) that includes the following (brief) sections:
 - Discussion (interpretation of results)
 
 ### Assessment criteria
-For Part 1 we will use the following criteria:
+For Part 2 we will use the following criteria:
 * Relevant: is the hypothesis meaningful? 
 * Clear: are the results clearly visualised?
 * True: is the interpretation of results critical? 
@@ -75,20 +77,20 @@ For Part 1 we will use the following criteria:
 ## Part 3
 
 ### Learning outcomes
-
+In the last part you will learn how to use code for visual sketching. We will use P5, a javascript version of Processing that is often used by artists and designers. You will learn how to create a code based image, what interactions are possible and how libraries work. 
 
 ### Instructions
-
+Based on part 1 and 2, you now select one image that you will use as a starting point for your sketch. 
 
 
 ### Deliverables
-A 1 page pdf that 
+A 1 page pdf that contains a reflectons about how 
 
 ### Assessment criteria
-For Part 1 we will use the following criteria:
+For Part 3 we will use the following criteria:
 * Relevant: is the hypothesis meaningful? 
 * Clear: are the results clearly visualised?
-* True: is the interpretation of results critical? 
+* Like: is the interpretation of results critical? 
 
 
 ## Selection
