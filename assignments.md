@@ -5,7 +5,10 @@
 You can use the reader (VCD) and our lectures as resource material. We will explain all the basics of perception and design. If you need more resources I recommend Visual Thinking for Design (perception & design) and Ways of Seeing (meaning).  
 -->
 
-The assignment consists of three parts, in the first you will apply your theoretical understanding to the **analysis** of images (works of art), in the second you will perform empirical **evaluations** and in the third part you will **create** code based visual based on the . Before starting the assignment, you will choose 6 images from our [selection](#selection). We carefully curated a set of interesting works that fit the course' context well. You will start with 6 for part 1, 2 for part 2 and 1 in part 3. 
+The assignment consists of three parts, in the first you will apply your theoretical understanding to the **analysis** of images (works of art), in the second you will perform empirical **evaluations** and in the third part you will **create** code based visual based on the . Before starting the assignment, you will choose 6 images from our [selection](#selection). We carefully curated a set of interesting works that fit the course' context well. You will start with 6 images in the first part part 1, 2 for second part and 1 for the last part:
+
+![alt text](images/overviewSelectionProcedure.png "Rubric Part 1")
+
 
 ## Part 1
 
@@ -37,17 +40,17 @@ You can use one A4 for each image with a maximum of 250 words. Illustrations may
 
 ### Assessment criteria
 For Part 1 we will use the following criteria:
-* True: does the analysis of the 6 elements apply to the image? 
+* Relevant: does the analysis of the 6 elements apply to the image? 
 * Clear: is the analysis presented in an understandable way?
 * New: did you create novel insights (from the synthesis).
 
 ### Rubric
-![alt text](images/Rubrics1.png "Rubric Part 1")
+![alt text](images/Rubrics1.png "Rubric Part 1")overviewSelectionProcedure
 
 ## Part 2
 
 ### Learning outcomes
-After this part, you will be able to prepare, conduct and interpret empirical research related to visual communication. You will become familiar with standard paradigms such as visual search, change blindness, eye & mouse tracking, conspicuity, and more. You will know the strength but also weaknesses of empirical research and able to assess other research critically
+After this part, you will be able to prepare, conduct and interpret empirical research related to visual communication. You will become familiar with standard paradigms such as visual search, change blindness, eye & mouse tracking, conspicuity, etc. You will know the strength but also weaknesses of empirical research and able to assess emperical results critically. 
 
 ### Instructions
 Choose 2 images from the 6 you used in part 1. Formulate hypotheses for which you need empirical insight and explain the connection between hypothesis and paradigm (= the type of experiment). Use 2 different paradigms in each image, so you can also reflect on different types of information you can extract. 
