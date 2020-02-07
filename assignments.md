@@ -70,6 +70,10 @@ A 4 page pdf (2 pages per image) that includes the following (brief) sections:
 
 ![alt text](content/2020/Cecilia.jpg "Cecilia")
 
+:-------------------------:|:-------------------------:
+![](content/2020/Cecilia.jpg)  |  ![](content/2020/Cecilia.jpg)
+
+
 
 <!--
 The assignment consists of 3 parts: analysis, evaluation and creation. You can read everything in the pdf link below. Furthermore, you need to choose 10 works from a total of 30, from every column you need to choose 1. 
