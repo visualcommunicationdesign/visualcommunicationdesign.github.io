@@ -39,18 +39,18 @@ You are free to choose 6 images from the selection we made for you. We suggest t
 You can use one A4 for each image with a maximum of 250 words. Illustrations may support your argumentation. The 6 A4 pages should be bundled in 1 pdf file. Please make sure that this file does not exceed 20Mb. You can use ‘reduced filesize’ options in Adobe, for example. The purpose here is twofold: 1) my hard disk is limited and 2) some of you need to gain awareness of file size management, it will look unprofessional if you would send out a 200Mb portfolio, for example. 
 
 ### Assessment criteria
-For Part 1 we will use the following criteria:
+For Part 2 we will use the following criteria:
 * Relevant: does the analysis of the 6 elements apply to the image? 
 * Clear: is the analysis presented in an understandable way?
 * New: did you create novel insights (from the synthesis).
 
-### Rubric
-![alt text](images/Rubrics1.png "Rubric Part 1")overviewSelectionProcedure
+<!--### Rubric
+![alt text](images/Rubrics1.png "Rubric Part 1")-->
 
 ## Part 2
 
 ### Learning outcomes
-After this part, you will be able to prepare, conduct and interpret empirical research related to visual communication. You will become familiar with standard paradigms such as visual search, change blindness, eye & mouse tracking, conspicuity, etc. You will know the strength but also weaknesses of empirical research and able to assess emperical results critically. 
+After this part, you will be able to prepare, conduct and interpret empirical research related to visual communication. You will become familiar with standard paradigms such as visual search, change blindness, eye & mouse tracking, conspicuity, etc. You will know the strength but also weaknesses of empirical research and able to assess empirical results critically. 
 
 ### Instructions
 Choose 2 images from the 6 you used in part 1. Formulate hypotheses for which you need empirical insight and explain the connection between hypothesis and paradigm (= the type of experiment). Use 2 different paradigms in each image, so you can also reflect on different types of information you can extract. 
@@ -66,17 +66,42 @@ A 4 page pdf (2 pages per image) that includes the following (brief) sections:
 - Discussion (interpretation of results)
 
 ### Assessment criteria
+For Part 1 we will use the following criteria:
+* Relevant: is the hypothesis meaningful? 
+* Clear: are the results clearly visualised?
+* True: is the interpretation of results critical? 
 
+
+## Part 3
+
+### Learning outcomes
+
+
+### Instructions
+
+
+
+### Deliverables
+A 1 page pdf that 
+
+### Assessment criteria
+For Part 1 we will use the following criteria:
+* Relevant: is the hypothesis meaningful? 
+* Clear: are the results clearly visualised?
+* True: is the interpretation of results critical? 
 
 
 ## Selection
 
+We will publish the images here shorly
+
+<!--
 ![alt text](content/2020/Cecilia.jpg "Cecilia")
 
 :-------------------------:|:-------------------------:
 ![](content/2020/Cecilia.jpg) Cecilia BenoCeciliazzo  |  Benozzo Benozzo Benozzo ![](content/2020/Benozzo.jpg)
 
-
+-->
 
 <!--
 The assignment consists of 3 parts: analysis, evaluation and creation. You can read everything in the pdf link below. Furthermore, you need to choose 10 works from a total of 30, from every column you need to choose 1. 
