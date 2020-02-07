@@ -71,7 +71,7 @@ A 4 page pdf (2 pages per image) that includes the following (brief) sections:
 ![alt text](content/2020/Cecilia.jpg "Cecilia")
 
 :-------------------------:|:-------------------------:
-![](content/2020/Cecilia.jpg)  |  ![](content/2020/Cecilia.jpg)
+![](content/2020/Cecilia.jpg) Cecilia BenoCeciliazzo  |  Benozzo Benozzo Benozzo ![](content/2020/Benozzo.jpg)
 
 
 
