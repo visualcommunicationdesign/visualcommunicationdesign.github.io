@@ -10,7 +10,7 @@ The assignment consists of three parts, in the first you will apply your theoret
 ![](images/overviewSelectionProcedure.png)
 
 ## General assesment criteria
-
+We will use the assesment criteria also used in C&C 
 
 ## Part 1
 
@@ -49,6 +49,10 @@ For Part 1 we will use the following criteria:
 <!--### Rubric
 ![alt text](images/Rubrics1.png "Rubric Part 1")-->
 
+### Deadlines
+- Draft: 20-mar-2020
+- Final: 30-mar-2020
+
 ## Part 2
 
 ### Learning outcomes
@@ -56,7 +60,6 @@ After this part, you will be able to prepare, conduct and interpret empirical re
 
 ### Instructions
 Choose 2 images from the 6 you used in part 1. Formulate hypotheses for which you need empirical insight and explain the connection between hypothesis and paradigm (= the type of experiment). Use 2 different paradigms in each image, so you can also reflect on different types of information you can extract. 
-
 
 ### Deliverables
 A 4 page pdf (2 pages per image) that includes the following (brief) sections:
@@ -73,6 +76,9 @@ For Part 2 we will use the following criteria:
 * Clear: are the results clearly visualised?
 * True: is the interpretation of results critical? 
 
+### Deadlines
+- Draft: 27-mar-2020
+- Final: 6-apr-2020
 
 ## Part 3
 
@@ -82,7 +88,6 @@ In the last part you will learn how to use code for visual sketching. We will us
 ### Instructions
 Based on part 1 and 2, you now select one image that you will use as a starting point for your sketch. 
 
-
 ### Deliverables
 A 1 page pdf that contains a reflectons about how 
 
@@ -91,6 +96,10 @@ For Part 3 we will use the following criteria:
 * Relevant: is the hypothesis meaningful? 
 * Clear: are the results clearly visualised?
 * Like: is the interpretation of results critical? 
+
+### Deadlines
+- Draft: 3-apr-2020
+- Final: 13-apr-2020
 
 
 ## Selection
