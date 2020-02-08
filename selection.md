@@ -12,4 +12,4 @@ lalala
 
 
 
-<iframe src="https://homepage.tudelft.nl/w3s80/VCD/index.html" width="1200"></iframe>
+<iframe src="https://homepage.tudelft.nl/w3s80/VCD/index.html" width="800" height="1200"></iframe>
