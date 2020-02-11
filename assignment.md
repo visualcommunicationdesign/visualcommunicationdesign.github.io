@@ -90,16 +90,15 @@ For Part 2 we will use the following criteria:
 In the last part you will learn how to use code for visual sketching. We will use P5, a javascript version of Processing that is often used by artists and designers. You will learn how to create a code based image, what interactions are possible and how libraries work. 
 
 ### Instructions
-Based on part 1 and 2, you now select one image that you will use as a starting point for your sketch. 
+You now select one image that you will use as a starting point for your P5 sketch. In this sketch, you are relatively free to communicate an insight about the work of art you choose for this last part of the assignment. This can be (partly) based on the insights you explicitly gained in the analysis (I) and/or evaluation (II) part, but it can also be something else you discovered.  
 
 ### Deliverables
-A 1 page pdf that contains a reflectons about how 
+A 1 page pdf that contains a reflectons about how you approached the problem and what kind of iterations you went through. Word limit is 300 words. It should also include a link using Share->Fullscreen, for example https://editor.p5js.org/maartenwijntjes/full/sCLGJg6H. 
 
 ### Assessment criteria
 For Part 3 we will use the following criteria:
-* Relevant: is the hypothesis meaningful? 
-* Clear: are the results clearly visualised?
-* Like: is the interpretation of results critical? 
+* True: Good reflection
+* Like: The sketch is visually strong
 
 ### Dates
 - Draft: 3-apr-2020
