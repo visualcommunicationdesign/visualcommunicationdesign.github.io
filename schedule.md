@@ -3,16 +3,22 @@
 
 --- | --- | --- | ---
 **week** | **date**	| **topic** | **time** | **place**
-3.1 | 13-feb | Introduction | 13:45-15:30 | [Pulse Hall 1](https://educationrooms.tudelft.nl/zaleninfo.php?zid=333)
+3.1 | 13-feb | Introduction | 13:45-15:30 | [Lecture Hall Ampere](https://educationrooms.tudelft.nl/zaleninfo.php?zid=166)
 3.2 | 20-feb | Awareness | 13:45-15:30 | [IDE-Arena](https://educationrooms.tudelft.nl/zaleninfo.php?zid=285)
 3.3 | 27-feb | Machinery | 13:45-15:30 | [IDE-Arena](https://educationrooms.tudelft.nl/zaleninfo.php?zid=285)
 3.4 | 05-mrt | Light and Colour  | 13:45-15:30 | [IDE-Arena](https://educationrooms.tudelft.nl/zaleninfo.php?zid=285)
 3.5 | 12-mrt | Pictorial spaces | 13:45-15:30 | [IDE-Arena](https://educationrooms.tudelft.nl/zaleninfo.php?zid=285)
 3.6 | 19-mrt | Guest lectures | 13:45-15:30 | [IDE-Arena](https://educationrooms.tudelft.nl/zaleninfo.php?zid=285)
 3.7 | 23-mrt | P5 practical training | 8:45-13:30 | [Wim Crouwel](https://educationrooms.tudelft.nl/zaleninfo.php?zid=164)
+3.7 | 26-mrt | TBA | 13:45-15:30 | [IDE-Arena](https://educationrooms.tudelft.nl/zaleninfo.php?zid=285)
 3.8 | 30-mrt | P5 practical training | 8:45-13:30 | [Wim Crouwel](https://educationrooms.tudelft.nl/zaleninfo.php?zid=164)
+3.8 | 2-apr | TBA | 13:45-15:30 | [IDE-Arena](https://educationrooms.tudelft.nl/zaleninfo.php?zid=285)
 3.9 | 6-apr | P5 practical training | 8:45-13:30 | [Wim Crouwel](https://educationrooms.tudelft.nl/zaleninfo.php?zid=164)
+3.9 | 9-apr | TBA | 13:45-15:30 | [IDE-Arena](https://educationrooms.tudelft.nl/zaleninfo.php?zid=285)
 3.10 | 16-apr |	Presentations | 13:45-17:30 | [Joost vd Grinten](https://educationrooms.tudelft.nl/zaleninfo.php?zid=1)
+
+
+
 
 <!--
 3.7 | 28-mrt | Feedback  Part 1 drafts	 | 15:45-17:30 | [CT-CZ-E](https://educationrooms.tudelft.nl/zaleninfo.php?zid=140)
