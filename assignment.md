@@ -86,9 +86,7 @@ For Part 2 we will use the following criteria:
 - Draft: 27-mar-2020
 - Video feedback: 30-mar-2020
 - Final: 6-apr-2020
-
 * * *
-
 ## Part 3
 
 ### Learning outcomes
