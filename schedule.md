@@ -1,6 +1,7 @@
 
 ## Lecture schedule (2020)
 
+
 --- | --- | --- | ---
 **week** | **date**	| **topic** | **time** | **place**
 3.1 | 13-feb | Introduction | 13:45-15:30 | [Lecture Hall Ampere](https://educationrooms.tudelft.nl/zaleninfo.php?zid=166)
@@ -17,7 +18,7 @@
 3.9 | 9-apr | TBA | 13:45-15:30 | [IDE-Arena](https://educationrooms.tudelft.nl/zaleninfo.php?zid=285)
 3.10 | 16-apr |	Presentations | 13:45-17:30 | [Joost vd Grinten](https://educationrooms.tudelft.nl/zaleninfo.php?zid=1)
 
-
+TBA = To Be Announced but it very likely means we will *not* meet. In previous years we had feedback sessions, but we moved that to video feedback. 
 
 
 <!--
