@@ -96,7 +96,7 @@ In the last part you will learn how to use code for visual sketching. We will us
 You now select one image that you will use as a starting point for your P5 sketch. In this sketch, you are relatively free to communicate an insight about the work of art you choose for this last part of the assignment. This can be (partly) based on the insights you explicitly gained in the analysis (I) and/or evaluation (II) part, but it can also be something else you discovered.  
 
 ### Deliverables
-A 1 page pdf that contains a reflectons about how you approached the problem and what kind of iterations you went through. Word limit is 300 words. It should also include a link using Share->Fullscreen, for example [https://editor.p5js.org/maartenwijntjes/full/sCLGJg6H](https://editor.p5js.org/maartenwijntjes/full/sCLGJg6H). 
+A 1 page pdf that contains a reflectons about how you approached the problem and what kind of iterations you went through. Word limit is 300 words. It should also include a link using Share ➡️ Fullscreen, for example [https://editor.p5js.org/maartenwijntjes/full/sCLGJg6H](https://editor.p5js.org/maartenwijntjes/full/sCLGJg6H). 
 
 ### Assessment criteria
 For Part 3 we will use the following criteria:
@@ -108,7 +108,7 @@ For Part 3 we will use the following criteria:
 - Video feedback: 6-apr-2020
 - Final: 13-apr-2020
 
-
+* * *
 ## Selection
 
 We will publish the images here shorly
