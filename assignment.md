@@ -100,8 +100,9 @@ A 1 page pdf that contains a reflectons about how you approached the problem and
 
 ### Assessment criteria
 For Part 3 we will use the following criteria:
-* True: Good reflection
-* Like: The sketch is visually strong
+* New: combines or creates something new
+* True: Able to reflect about the process
+* Like: speaks for itself
 
 ### Dates
 - Draft: 3-apr-2020
