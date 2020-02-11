@@ -11,16 +11,16 @@ The assignment consists of three parts, in the first you will apply your theoret
 
 
 ## General assesment criteria
-We will use the CoNTRoL assesment criteria also used in C&C: Clear, New, True, Relevant and Like. In each part we use a selection of these criteria, specified below. 
+We will use the CoNTRoL assesment criteria also used in [Context and Conceptualisation](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=36962): Clear, New, True, Relevant and Like. In each part we use a selection of these criteria, specified below. 
 
 
 ## Part 1
 
 ### Introduction
-In this first part, you will analyse 6 images on the basis of theory we discussed in class. 
+In this first part, you will analyse 6 images on the basis of theory we discussed in class and the reader.
 
 ### Learning outcomes
-You will become critically aware of the visual world around you. You will be able to name and explain technical elements of visual communication design. You will know how these technical elements relate to the human visual system (eyes and brain) and therefore predict what information is communicated. Lastly, you will gain understanding about the role of visual communication in historical and contemporary society.  
+You will become critically aware of the visual world around you. You will be able to name and explain technical elements of images. You will know how these technical elements relate to the human visual system (eyes and brain) and therefore predict what information is communicated. Lastly, you will gain understanding about the role of visual communication in historical and contemporary society.  
 
 ### Instructions
 Gombrich (1972) distinguishes between the *expressive*, *arousing* and *descriptive* function of images. Furthermore, during the lectures and in the book we discussed the *perceptual*, *technical* and *contextual* ingredients of visual communication:
@@ -31,16 +31,17 @@ Gombrich (1972) distinguishes between the *expressive*, *arousing* and *descript
 * Technical: What media are used, how is it made?
 * Contextual: What is the historical, social (economical) and cultural context?
 
-**First** you will analyse these elements individually for the images you choose. 
-**Second**, you will synthesize the analysis by discussing connections between any of the 6 elements. You are free in choosing which combinations, but try to use different ones for each image. 
+**First** you will analyse these elements individually for the images you choose. You do not have to discuss all 6 elements for each image, only when they are relevant. But try to at least discuss each element at least once, so choose wisely. 
 
-You are free to choose 6 images from the selection we made for you. We suggest to base your selection on:
+**Second**, you will synthesize the analysis by discussing connections between any of the 6 elements. You are free in choosing which combinations. 
+
+<!--You are free to choose 6 images from the selection we made for you. We suggest to base your selection on:
 * your personal interest
 * affords different types of analysis
-* seem potentially interesting for Part 2 (empirically evaluation)
+* seem potentially interesting for Part 2 (empirically evaluation)-->
 
 ### Deliverables
-You can use one A4 for each image with a maximum of 250 words. Illustrations may support your argumentation. The 6 A4 pages should be bundled in 1 pdf file. Please make sure that this file does not exceed 20Mb. You can use ‘reduced filesize’ options in Adobe, for example. The purpose here is twofold: 1) my hard disk is limited and 2) some of you need to gain awareness of file size management, it will look unprofessional if you would send out a 200Mb portfolio, for example. 
+Use one A4 for each image with a maximum of 250 words. Illustrations can support your argumentation. The 6 A4 pages should be bundled in 1 pdf file. Please make sure that this file does not exceed 20Mb. You can use ‘reduced filesize’ options in Adobe, for example. The purpose here is twofold: 1) my hard disk is limited and 2) some of you need to gain awareness of file size management 🤔, it will look unprofessional if you would send out a 200Mb portfolio, for example. 
 
 ### Assessment criteria
 For Part 1 we will use the following criteria:
@@ -93,7 +94,7 @@ In the last part you will learn how to use code for visual sketching. We will us
 You now select one image that you will use as a starting point for your P5 sketch. In this sketch, you are relatively free to communicate an insight about the work of art you choose for this last part of the assignment. This can be (partly) based on the insights you explicitly gained in the analysis (I) and/or evaluation (II) part, but it can also be something else you discovered.  
 
 ### Deliverables
-A 1 page pdf that contains a reflectons about how you approached the problem and what kind of iterations you went through. Word limit is 300 words. It should also include a link using Share->Fullscreen, for example https://editor.p5js.org/maartenwijntjes/full/sCLGJg6H. 
+A 1 page pdf that contains a reflectons about how you approached the problem and what kind of iterations you went through. Word limit is 300 words. It should also include a link using Share->Fullscreen, for example [https://editor.p5js.org/maartenwijntjes/full/sCLGJg6H](https://editor.p5js.org/maartenwijntjes/full/sCLGJg6H). 
 
 ### Assessment criteria
 For Part 3 we will use the following criteria:

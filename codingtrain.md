@@ -3,10 +3,10 @@
 We will use P5.js for several reasons. When learning visual (interaction) design, there is always the difficult issue of what kind of platform/software to use. There is a wide spectrum ranging from off-the-shelf interaction prototyping software on the one side, and purely coding (e.g. HTML5 etc) on the other hand. 
 
 P5.js seems to be nicely in the middle. On the one hand, it is relatively easy to generate interesting visuals. On the other hand, it can be a good introduction about how things on the web are organized. But most importantly using **P5.js is really what sketching** is about: a creative ping-pong game between your mind and the world where many serendipitous events occur that will lead to (literally) unimaginable outcomes. Further advantages include:
-1) free
-2) great community of artists and designers
-3) access to a wide variety of javascript plugins including machine learning
-4) concrete result because you generate an HTML page
+1. free
+2. great community of artists and designers
+3. access to a wide variety of javascript plugins including machine learning
+4. concrete result because you generate an HTML page
 
 ## How to sketch
 
