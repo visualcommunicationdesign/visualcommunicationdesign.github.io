@@ -13,7 +13,7 @@ The assignment consists of three parts, in the first you will apply your theoret
 ## General assesment criteria
 We will use the CoNTRoL assesment criteria also used in [Context and Conceptualisation](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=36962): Clear, New, True, Relevant and Like. In each part we use a selection of these criteria, specified below. 
 
-
+* * *
 ## Part 1
 
 ### Introduction
@@ -58,7 +58,6 @@ For Part 1 we will use the following criteria:
 - Final: 30-mar-2020
 
 * * *
-
 ## Part 2
 
 ### Learning outcomes
@@ -86,6 +85,7 @@ For Part 2 we will use the following criteria:
 - Draft: 27-mar-2020
 - Video feedback: 30-mar-2020
 - Final: 6-apr-2020
+
 * * *
 ## Part 3
 
