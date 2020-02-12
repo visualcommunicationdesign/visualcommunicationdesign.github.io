@@ -17,13 +17,7 @@ We will use the CoNTRoL assesment criteria also used in [Context and Conceptuali
 ## Part 1
 
 ### Introduction
-In this first part, you will analyse 6 images on the basis of theory we discussed in class and the reader.
-
-### Learning outcomes
-You will become critically aware of the visual world around you. You will be able to name and explain technical elements of images. You will know how these technical elements relate to the human visual system (eyes and brain) and therefore predict what information is communicated. Lastly, you will gain understanding about the role of visual communication in historical and contemporary society.  
-
-### Instructions
-Gombrich (1972) distinguishes between the *expressive*, *arousing* and *descriptive* function of images. In ‘A Primer of Visual Literacy’ (1973) Donis A. Dondis breaks down the expression and reception of visual messages on three levels of information retrieval: representation, abstraction and symbolism. All of  these levels “are interconnected and overlapping, but can be sufficiently distinguished from each other so that they can be analysed both as to their value as potential tactics for message-making and their quality in the process of seeing.” Furthermore, during the lectures and in the book we discussed the perceptual (what?), technical (how?) and contextual ingredients (when, where and why?) of visual communication. Taken together, we have a list of visual communciation elements:
+Gombrich (1972) distinguishes between the *expressive*, *arousing* and *descriptive* function of images. In ‘A Primer of Visual Literacy’ (1973) Donis A. Dondis breaks down the expression and reception of visual messages on three levels of information retrieval: representation, abstraction and symbolism. All of  these levels “are interconnected and overlapping, but can be sufficiently distinguished from each other so that they can be analysed both as to their value as potential tactics for message-making and their quality in the process of seeing.” Furthermore, during the lectures and in the book we discussed the perceptual (what?), technical (how?) and contextual ingredients (when, where and why?) of visual communication. Taken together, we have a list of visual communication elements:
 
 * Expressive: What was the intention of the artist/designer? 
 * Arousing: Who is it made for and how is it received? 
@@ -35,9 +29,18 @@ Gombrich (1972) distinguishes between the *expressive*, *arousing* and *descript
 * Technical: What media are used, how is it made?
 * Contextual: What is the historical, social (economical) and cultural context?
 
-**First** you will analyse these elements individually for the images you choose. You do not have to discuss all 6 elements for each image, only when they are relevant. But try to at least discuss each element at least once, so choose wisely. 
+Take notice that this list is *interconnected, overlapping and incomplete*. 
 
-**Second**, you will synthesize the analysis by discussing connections between any of the 6 elements. You are free in choosing which combinations. 
+### Learning outcomes
+You will become critically aware of the visual world around you. You will be able to name and explain technical elements of images. You will know how these technical elements relate to the human visual system (eyes and brain) and therefore predict what information is communicated. Lastly, you will gain understanding about the role of visual communication in historical and contemporary society.  
+
+### Instructions
+
+Select 6 images from our [selection](#selection) that you will analyse using the 9 elements mentioned above, in the introduction. 
+
+**First** you will analyse these elements individually. You do not have to discuss all 9 elements for each image, only when they are relevant. But try to at least discuss each element at least once.
+
+**Second**, you will synthesize the analysis by discussing connections between any of the elements. You are free in choosing which combinations. 
 
 <!--You are free to choose 6 images from the selection we made for you. We suggest to base your selection on:
 * your personal interest
@@ -82,7 +85,7 @@ A 4 page pdf (2 pages per image) that includes the following (brief) sections:
 ### Assessment criteria
 For Part 2 we will use the following criteria:
 * Relevant: is the hypothesis meaningful? 
-* Clear: are the results clearly visualised?
+* Clear: are the results clearly presented?
 * True: is the interpretation of results critical? 
 
 ### Dates
@@ -94,19 +97,19 @@ For Part 2 we will use the following criteria:
 ## Part 3
 
 ### Learning outcomes
-In the last part you will learn how to use code for visual sketching. We will use P5, a javascript version of Processing that is often used by artists and designers. You will learn how to create a code based image, what interactions are possible and how libraries work. 
+In the last part you will learn how to use code for visual sketching. We will use [P5js.org](P5js.org), a javascript version of Processing that is used by many artists and designers. You will learn how to create a code based image, what interactions are possible and how (machine learning) libraries work. 
 
 ### Instructions
 You now select one image that you will use as a starting point for your P5 sketch. In this sketch, you are relatively free to communicate an insight about the work of art you choose for this last part of the assignment. This can be (partly) based on the insights you explicitly gained in the analysis (I) and/or evaluation (II) part, but it can also be something else you discovered.  
 
 ### Deliverables
-A 1 page pdf that contains a reflectons about how you approached the problem and what kind of iterations you went through. Word limit is 300 words. It should also include a link using Share ➡️ Fullscreen, for example [https://editor.p5js.org/maartenwijntjes/full/sCLGJg6H](https://editor.p5js.org/maartenwijntjes/full/sCLGJg6H). 
+A 1 page pdf that contains a reflecton about how you approached the problem and what kind of iterations you went through. Word limit is 300 words. It should also include a link using Share ➡️ Fullscreen, for example [https://editor.p5js.org/maartenwijntjes/full/sCLGJg6H](https://editor.p5js.org/maartenwijntjes/full/sCLGJg6H). 
 
 ### Assessment criteria
 For Part 3 we will use the following criteria:
 * New: combines or creates something new
 * True: Able to reflect about the process
-* Like: speaks for itself
+* Like: 🙂
 
 ### Dates
 - Draft: 3-apr-2020
@@ -116,7 +119,7 @@ For Part 3 we will use the following criteria:
 * * *
 ## Selection
 
-We will publish the images here shorly
+**COMING SOON**
 
 <!--
 ![alt text](content/2020/Cecilia.jpg "Cecilia")

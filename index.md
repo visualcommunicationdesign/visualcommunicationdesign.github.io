@@ -18,11 +18,9 @@ The learning activities (assignments) each address a specific learning goal:
 2.	Design and conduct visual tests with a (small) group of observers, analyse and interpret data.  
 3.	Learn to read, adept and write P5.js sketches during practical training and online courses. 
 
-
 ## Course material
 
-
-* [**Visual and Depiction**](https://homepage.tudelft.nl/w3s80/VisionAndDepiction.html) by Wijntjes & Middelkoop (did not yet contribute much;). A draft version of the book we are working on. Besides a good outline/summery of the lectures it include spelling mistakes, repetitions, unfinished paragraphs and dead hyperlinks: feel free to notify us about unclarities. 
+* [**Vision and Depiction**](https://homepage.tudelft.nl/w3s80/VisionAndDepiction.html) by Wijntjes & (a little bit of) Middelkoop. A draft version of the book we are working on. Besides a good outline/summery of the lectures it include spelling mistakes, repetitions, unfinished paragraphs and dead hyperlinks: feel free to notify us about unclarities. 
 * [**Visual Thinking for Design**](https://www.amazon.com/dp/0123708966/ref=rdr_ext_tmb) by Colin Ware (Recommended). This has been a major inspiration source when teaching this course over the past years. He also wrote the bit more advanced book [Information Visualization - Perception for Design](https://www.amazon.com/dp/0123814642/ref=rdr_ext_tmb) that you should certainly check out when diving deeper in the topic of data visualization. 
 * **Ways of Seeing** by John Berger (Recommended), either in [book form](https://www.amazon.co.uk/dp/014103579X/ref=rdr_ext_tmb) or from his [BBC series](https://youtu.be/0pDE4VX_9Kk).
 * **A Primer of Visual Literacy** by Donis A. Dondis (Recommended).
