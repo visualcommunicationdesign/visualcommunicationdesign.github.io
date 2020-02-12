@@ -51,7 +51,7 @@ There are many ways to create visual information, as you will learn throughout t
 
 -->
 
-## Course coordinators
+## Teachers
 
 Maarten Wijntjes / <img src="images/wijntjes.png" alt="drawing" height="18"/>/ Office C-3-260
 
