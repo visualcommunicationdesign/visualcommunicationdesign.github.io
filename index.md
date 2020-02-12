@@ -10,20 +10,19 @@
 
 Welcome to the online syllabus for Visual Communciation Design, a course for Design for Interaction (DfI) Master program students, and off course anyone else interested. In this course we have 3 main learning objectives:
 1.	Learn to 'read' existing visual communication designs (visual literacy).
-2.	Apply various emperical methods to reveal what people see. 
-3.	Design a web-based interactive visual communication.
+2.	Apply emperical methods to quantify visual information communication. 
+3.	Design a code-based interactive visual.
 
 The learning activities (assignments) each address a specific learning goal:
-1.	Analyse a set of images. 
-2.	Design and conduct a user test that quantifies the communication.  
-3.	Learn to read, adept and write P5.js sketches. 
-
+1.	Choose and study a set of images based on theories about perception and depiction.
+2.	Design and conduct visual tests with a (small) group of observers, analyse and interpret data.  
+3.	Learn to read, adept and write P5.js sketches during practical training and online courses. 
 
 
 ## Course material
 
 
-* [**Visual and Depiction**](https://homepage.tudelft.nl/w3s80/VisionAndDepiction.html) by Wijntjes (mandatory).which is a draft version of the book we are working on. Besides a good outline of lectures it include spelling mistakes, repetitions, unfinished paragraphs and dead hyperlinks: feel free to notify us about unclarities. 
+* [**Visual and Depiction**](https://homepage.tudelft.nl/w3s80/VisionAndDepiction.html) by Wijntjes & Middelkoop (did not yet contribute much;). A draft version of the book we are working on. Besides a good outline/summery of the lectures it include spelling mistakes, repetitions, unfinished paragraphs and dead hyperlinks: feel free to notify us about unclarities. 
 * [**Visual Thinking for Design**](https://www.amazon.com/dp/0123708966/ref=rdr_ext_tmb) by Colin Ware (Recommended). This has been a major inspiration source when teaching this course over the past years. He also wrote the bit more advanced book [Information Visualization - Perception for Design](https://www.amazon.com/dp/0123814642/ref=rdr_ext_tmb) that you should certainly check out when diving deeper in the topic of data visualization. 
 * **Ways of Seeing** by John Berger (Recommended), either in [book form](https://www.amazon.co.uk/dp/014103579X/ref=rdr_ext_tmb) or from his [BBC series](https://youtu.be/0pDE4VX_9Kk).
 * **A Primer of Visual Literacy** by Donis A. Dondis (Recommended).
