@@ -23,10 +23,14 @@ In this first part, you will analyse 6 images on the basis of theory we discusse
 You will become critically aware of the visual world around you. You will be able to name and explain technical elements of images. You will know how these technical elements relate to the human visual system (eyes and brain) and therefore predict what information is communicated. Lastly, you will gain understanding about the role of visual communication in historical and contemporary society.  
 
 ### Instructions
-Gombrich (1972) distinguishes between the *expressive*, *arousing* and *descriptive* function of images. Furthermore, during the lectures and in the book we discussed the *perceptual*, *technical* and *contextual* ingredients of visual communication:
+Gombrich (1972) distinguishes between the *expressive*, *arousing* and *descriptive* function of images. In ‘A Primer of Visual Literacy’ (1973) Donis A. Dondis breaks down the expression and reception of visual messages on three levels of information retrieval: representation, abstraction and symbolism. All of  these levels “are interconnected and overlapping, but can be sufficiently distinguished from each other so that they can be analysed both as to their value as potential tactics for message-making and their quality in the process of seeing.” Furthermore, during the lectures and in the book we discussed the perceptual (what?), technical (how?) and contextual ingredients (when, where and why?) of visual communication. Taken together, we have a list of visual communciation elements:
+
 * Expressive: What was the intention of the artist/designer? 
 * Arousing: Who is it made for and how is it received? 
 * Descriptive: What information is transmitted? 
+* Representationally: What can be seen and recognised?
+* Abstractly: Which more direct, emotional, and primitive message-making means are used?
+* Symbolically: Which coded symbol system can be deciphered?
 * Perceptual: What ingredients, such as color, texture and space are used?
 * Technical: What media are used, how is it made?
 * Contextual: What is the historical, social (economical) and cultural context?

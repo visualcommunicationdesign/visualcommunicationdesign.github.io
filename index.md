@@ -8,17 +8,15 @@
 
 ## Introduction
 
-Welcome to the online syllabus for Visual Communciation Design, a mandatory course for Design for Interaction (DfI) Master program students and an elective for other programs. In the course, we study visual communication from three perspectives: A) How does the brain process visual information? B) How can you empirically test visual communication? C) What are digital possibilities and tools to design visual communication? 
-
-These have been formulated in 3 learning objectives:
-1.	Understand visual communication design in terms of how it is perceived, how it is made (technique) and why it was made (historical/cultural/use).
-2.	Formulate hypotheses about communicative properties and empirically evaluate these.
+Welcome to the online syllabus for Visual Communciation Design, a course for Design for Interaction (DfI) Master program students, and off course anyone else interested. In this course we have 3 main learning objectives:
+1.	Learn to 'read' existing visual communication designs (visual literacy).
+2.	Apply various emperical methods to reveal what people see. 
 3.	Design a web-based interactive visual communication.
 
 The learning activities (assignments) each address a specific learning goal:
-1.	Identify the relevant perceptual mechanisms that play a role in a given set of designs and relate them to technique and context. 
-2.	Design and conduct a user test that quantifies the information communication.  
-3.	Learn to read, adept and write P5.js sketches into an interactive javascript prototype. 
+1.	Analyse a set of images. 
+2.	Design and conduct a user test that quantifies the communication.  
+3.	Learn to read, adept and write P5.js sketches. 
 
 
 
