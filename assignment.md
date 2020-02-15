@@ -97,7 +97,7 @@ For Part 2 we will use the following criteria:
 ## Part 3
 
 ### Learning outcomes
-In the last part you will learn how to use code for visual sketching. We will use [P5js.org](P5js.org), a javascript version of Processing that is used by many artists and designers. You will learn how to create a code based image, what interactions are possible and how (machine learning) libraries work. 
+In the last part you will learn how to use code for visual sketching. We will use [P5js.org](https://P5js.org), a javascript version of Processing that is used by many artists and designers. You will learn how to create a code based image, what interactions are possible and how (machine learning) libraries work. 
 
 ### Instructions
 You now select one image that you will use as a starting point for your P5 sketch. In this sketch, you are relatively free to communicate an insight about the work of art you choose for this last part of the assignment. This can be (partly) based on the insights you explicitly gained in the analysis (I) and/or evaluation (II) part, but it can also be something else you discovered.  
