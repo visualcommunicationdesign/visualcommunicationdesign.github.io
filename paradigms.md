@@ -1,12 +1,12 @@
 # Paradigms
-Here is a set of rudimentary P5 sketches that can help you set up a visual experiment. Please check either check [Vision and Depiction (Draft)](https://homepage.tudelft.nl/w3s80/VisionAndDepiction.html#pf63) or search for the paradigm names if you want more info. 
+Here is a set of rudimentary P5 sketches that can help you set up a visual experiment. Please check either check [Vision and Depiction (Draft)](https://homepage.tudelft.nl/w3s80/VisionAndDepiction.html#pf63) or search for the paradigm names if you want more info. Oh yes, and something else: you don't _have_ to use these. It is also fine to perform experiments using powerpoint, make a GIF, etc. Or use a questionaire on Google Forms, Qualtrix etc. There are many ways to investigate what people see. 
 
 * [**Visual Search** (single trial)](https://editor.p5js.org/maartenwijntjes/sketches/ICs67kdbA)
 
+* [**Change blindness** (single trial, no reaction time)](https://editor.p5js.org/maartenwijntjes/sketches/GgLwmPwFo)
 
-## Change blindness
+* [**Conspicuity** ](https://editor.p5js.org/maartenwijntjes/sketches/cPBdpHIrD)
 
-## Conspicuity
 
 ## BubbleView
 
@@ -18,5 +18,5 @@ Here is a set of rudimentary P5 sketches that can help you set up a visual exper
 
 ## Classification (words)
 
-## Classificatuion (pictures)
+## Classification (pictures)
 
