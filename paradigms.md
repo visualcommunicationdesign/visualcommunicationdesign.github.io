@@ -42,8 +42,6 @@ Oh yes, you don't _have_ to use these. It is also fine to perform experiments us
 * [**P5 code**](https://editor.p5js.org/maartenwijntjes/sketches/Uq_K0yPI)
 
 
-
-
 ## Rating
 
 ## Similarity
