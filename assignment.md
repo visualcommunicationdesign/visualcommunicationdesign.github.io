@@ -5,7 +5,7 @@
 You can use the reader (VCD) and our lectures as resource material. We will explain all the basics of perception and design. If you need more resources I recommend Visual Thinking for Design (perception & design) and Ways of Seeing (meaning).  
 -->
 
-The assignment consists of three parts, in the first you will apply your theoretical understanding to the **analysis** of images (works of art), in the second you will perform empirical **evaluations** and in the third part you will **create** code based visual based on the previous parts. Before starting the assignment, you will choose 6 images from our [selection](#selection). We carefully curated a set of interesting works that fit the course' context well. You will start with 6 images in the first part part 1, 2 for second part and 1 for the last part:
+The assignment consists of three parts, in the first you will apply your theoretical understanding to the **analysis** of images (works of art), in the second you will perform empirical **evaluations** and in the third part you will **create** code based visual based on the previous parts. Before starting the assignment, you will choose 6 images from our <a href="{{site.baseurl}}/selection2020">selection</a>. We carefully curated a set of interesting works that fit the course' context well. You will start with 6 images in the first part part 1, 2 for second part and 1 for the last part:
 
 ![](images/overviewSelectionProcedure.png)
 
@@ -36,7 +36,7 @@ You will become critically aware of the visual world around you. You will be abl
 
 ### Instructions
 
-Select 6 images from our [selection](#selection) that you will analyse using the 9 elements mentioned above, in the introduction. 
+Select 6 images from our <a href="{{site.baseurl}}/selection2020">selection</a> that you will analyse using the 9 elements mentioned above, in the introduction. 
 
 **First** you will analyse these elements individually. You do not have to discuss all 9 elements for each image, only when they are relevant. But try to at least discuss each element at least once.
 
@@ -116,10 +116,6 @@ For Part 3 we will use the following criteria:
 - Video feedback: 6-apr-2020
 - Final: 13-apr-2020
 
-* * *
-## Selection
-
-**COMING SOON**
 
 <!--
 ![alt text](content/2020/Cecilia.jpg "Cecilia")
