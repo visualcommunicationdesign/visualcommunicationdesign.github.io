@@ -1,5 +1,7 @@
 # Selection
 
+Here is the selection of images you can use for your assignments. 
+
 :-------------------------:|:-------------------------:
 ![](content/2020/Archizoom.jpg) [search](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2020/Archizoom.jpg)|![](content/2020/DP226465.jpg) [search](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2020/DP226465.jpg)
 :-------------------------:|:-------------------------:
