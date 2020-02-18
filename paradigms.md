@@ -10,13 +10,13 @@ Oh yes, you don't _have_ to use these. It is also fine to perform experiments us
 * **What**: search for a predefined target in a scene
 * **Independent variables**: Target, scene
 * **Dependent variables**: reaction time, accuracy
-* [**P5 code (single trial)**](https://editor.p5js.org/maartenwijntjes/sketches/ICs67kdbA)
+* [**P5 code (single trial)**](https://editor.p5js.org/maartenwijntjes/full/ICs67kdbA)
 
 ## Change blindness
 * **What**: search for something changing in a scene
 * **Independent variables**: Target, scene
 * **Dependent variables**: reaction time, accuracy
-* [**P5 code (single trial, no reaction time)**](https://editor.p5js.org/maartenwijntjes/sketches/GgLwmPwFo)
+* [**P5 code (single trial, no reaction time)**](https://editor.p5js.org/maartenwijntjes/full/GgLwmPwFo)
 
 <!--
 * [**Visual Search** (single trial)](https://editor.p5js.org/maartenwijntjes/sketches/ICs67kdbA)
@@ -32,14 +32,14 @@ Oh yes, you don't _have_ to use these. It is also fine to perform experiments us
 * **What**: introspectively judge visibility of a peripheral target
 * **Independent variables**: Target, scene
 * **Dependent variables**: distance
-* [**P5 code**](https://editor.p5js.org/maartenwijntjes/sketches/cPBdpHIrD)
+* [**P5 code**](https://editor.p5js.org/maartenwijntjes/full/cPBdpHIrD)
 
 
 ## BubbleView
 * **What**: [this](http://bubbleview.namwkim.org)
 * **Independent variables**: Scene
 * **Dependent variables**: Attention positions, order. 
-* [**P5 code**](https://editor.p5js.org/maartenwijntjes/sketches/Uq_K0yPI)
+* [**P5 code**](https://editor.p5js.org/maartenwijntjes/full/Uq_K0yPI)
 
 
 ## Attribute rating
