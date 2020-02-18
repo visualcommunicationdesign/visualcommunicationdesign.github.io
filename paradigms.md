@@ -42,13 +42,37 @@ Oh yes, you don't _have_ to use these. It is also fine to perform experiments us
 * [**P5 code**](https://editor.p5js.org/maartenwijntjes/sketches/Uq_K0yPI)
 
 
-## Rating
+## Attribute rating
+* **What**: Rating a certain attribute on a scale. 
+* **Independent variables**: Attributes (do the same experiment with different adjectives), any stimulus variation
+* **Dependent variables**: Rating value
+* **Data analysis**: If you measure a bunch of attributes, you can perform [PCA](https://en.wikipedia.org/wiki/Principal_component_analysis). But simple correlations are also interesting. 
+* **P5 code**(TO DO)
 
 ## Similarity
+* **What**: Rating two stimuli wrt their similarity (and do that for a bunch of pictures)
+* **Independent variables**: 
+* **Dependent variables**: Similarity rating
+* **Data analysis**: the similarity data can be used for [MDS](https://en.wikipedia.org/wiki/Multidimensional_scaling)
+* **P5 code**(TO DO)
 
 ## Matching
+* **What**: Parametric matching (in this case colour)
+* **Independent variables**: Scene, observer (colour blind, etc)
+* **Dependent variables**: (colour) parameters 
+* [**P5 code**](https://editor.p5js.org/maartenwijntjes/full/q7sJV6m7)
 
 ## Classification (words)
+* **What**: Classifying a picture with predefined set of words (free wording is also interesting, but complex)
+* **Independent variables**: 
+* **Dependent variables**: [Accuracy and Precision](https://en.wikipedia.org/wiki/Accuracy_and_precision)
+* **P5 code**(TO DO)
+
 
 ## Classification (pictures)
+* **What**: Classifying a picture with predefined set of examplar pictures
+* **Independent variables**: 
+* **Dependent variables**: [Accuracy and Precision](https://en.wikipedia.org/wiki/Accuracy_and_precision)
+* **P5 code**(TO DO)
+
 
