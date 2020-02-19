@@ -6,7 +6,7 @@
 **week** | **date**	| **topic** | **time** | **place**
 3.1 | 13-feb | Introduction | 13:45-15:30 | [Lecture Hall Ampere](https://educationrooms.tudelft.nl/zaleninfo.php?zid=166)
 3.2 | 20-feb | Seeing | 13:45-15:30 | [IDE-Arena](https://educationrooms.tudelft.nl/zaleninfo.php?zid=285)
-3.3 | 27-feb | Tecture | 13:45-15:30 | [IDE-Arena](https://educationrooms.tudelft.nl/zaleninfo.php?zid=285)
+3.3 | 27-feb | Texture | 13:45-15:30 | [IDE-Arena](https://educationrooms.tudelft.nl/zaleninfo.php?zid=285)
 3.4 | 05-mrt | Light  | 13:45-15:30 | [IDE-Arena](https://educationrooms.tudelft.nl/zaleninfo.php?zid=285)
 3.5 | 12-mrt | Spaces | 13:45-15:30 | [IDE-Arena](https://educationrooms.tudelft.nl/zaleninfo.php?zid=285)
 3.6 | 19-mrt | Guest lectures | 13:45-15:30 | [IDE-Arena](https://educationrooms.tudelft.nl/zaleninfo.php?zid=285)
