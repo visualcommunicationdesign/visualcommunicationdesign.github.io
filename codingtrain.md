@@ -132,3 +132,13 @@ Varying complexity:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1c1_TMdf8b8?start=160&end=225" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 4.2: Nested Loops (Part 2, 4:22-8:01)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1c1_TMdf8b8?start=262&end=481" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+5.1: Function Basics (Part 1, 4:45-6:28)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wRHAitGzBrg?start=285&end=388" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+5.1: Function Basics (Part 2, 9:20-12:02)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wRHAitGzBrg?start=560&end=722" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+5.2 Function Parameters and Arguments (Part 1, 6:50-9:30)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zkc417YapfE?start=410&end=570" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+5.3: Functions and Return (Part 1, 4:20-6:18)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qRnUBiTJ66Y?start=260&end=378" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+5.4: Functions Inside of Objects (Part 1, COMPLETE!)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QoFWCPVpWUE?start=0&end=525" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
