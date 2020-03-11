@@ -59,7 +59,7 @@ For Part 1 we will use the following criteria:
 * New: did you create novel insights (from the synthesis).
 
 UPDATE: The Rubric
-![alt text](images/rubrics1.png "Rubric Part 1")
+![alt text](images/Rubrics1.png "Rubric Part 1")
 
 <!--### Rubric
 ![alt text](images/Rubrics1.png "Rubric Part 1")-->
