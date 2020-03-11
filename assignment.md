@@ -54,7 +54,7 @@ Use one A4 for each image with a maximum of 250 words. Illustrations can support
 
 ### Assessment criteria
 For Part 1 we will use the following criteria:
-* Relevant: does the analysis apply to the image? 
+* True: does the analysis apply to the image? 
 * Clear: is the analysis presented in an understandable way?
 * New: did you create novel insights (from the synthesis).
 
@@ -117,11 +117,11 @@ A 1 page pdf that contains a reflecton about how you approached the problem and 
 ### Assessment criteria
 For Part 3 we will use the following criteria:
 * New: combines or creates something new
-* True: Able to reflect about the process
+* Relevant: reflection
 * Like: 🙂
 
 UPDATE: The Rubric
-![alt text](images/rubrics3.png "Rubric Part 3")
+![alt text](images/rubrics3.png "Rubric Part 3" )
 
 
 ### Dates
