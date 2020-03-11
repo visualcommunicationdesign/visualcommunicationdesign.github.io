@@ -47,14 +47,14 @@ Oh yes, you don't _have_ to use these. It is also fine to perform experiments us
 * **Independent variables**: Attributes (do the same experiment with different adjectives), any stimulus variation
 * **Dependent variables**: Rating value
 * **Data analysis**: If you measure a bunch of attributes, you can perform [PCA](https://en.wikipedia.org/wiki/Principal_component_analysis). But simple correlations are also interesting. 
-* **P5 code**(https://editor.p5js.org/Fairyland201/full/TW-AMw7B)
+* [**P5 code**](https://editor.p5js.org/Fairyland201/full/TW-AMw7B)
 
 ## Similarity
 * **What**: Rating two stimuli wrt their similarity (and do that for a bunch of pictures)
 * **Independent variables**: 
 * **Dependent variables**: Similarity rating
 * **Data analysis**: the similarity data can be used for [MDS](https://en.wikipedia.org/wiki/Multidimensional_scaling)
-* **P5 code**(https://editor.p5js.org/Fairyland201/full/neTAQAxs)
+* [**P5 code**](https://editor.p5js.org/Fairyland201/full/neTAQAxs)
 
 ## Matching
 * **What**: Parametric matching (in this case colour)
@@ -66,13 +66,13 @@ Oh yes, you don't _have_ to use these. It is also fine to perform experiments us
 * **What**: Classifying a picture with predefined set of words (free wording is also interesting, but complex)
 * **Independent variables**: 
 * **Dependent variables**: [Accuracy and Precision](https://en.wikipedia.org/wiki/Accuracy_and_precision)
-* **P5 code**(https://editor.p5js.org/mjpvz/full/OU_jX-An)
+* [**P5 code**](https://editor.p5js.org/mjpvz/full/OU_jX-An)
 
 
 ## Classification (pictures)
 * **What**: Classifying a picture with predefined set of examplar pictures
 * **Independent variables**: 
 * **Dependent variables**: [Accuracy and Precision](https://en.wikipedia.org/wiki/Accuracy_and_precision)
-* **P5 code**(https://editor.p5js.org/mjpvz/full/V5-fXRQI)
+* [**P5 code**](https://editor.p5js.org/mjpvz/full/V5-fXRQI)
 
 

@@ -29,7 +29,9 @@ Gombrich (1972) distinguishes between the *expressive*, *arousing* and *descript
 * Technical: What media are used, how is it made?
 * Contextual: What is the historical, social (economical) and cultural context?
 
-Take notice that this list is *interconnected, overlapping and incomplete*. 
+Take notice that this list is *interconnected, overlapping and incomplete*. UPDATE, we made a [google doc](https://docs.google.com/document/d/1DXR6YJvkKFGXYpCBWHJ_l7DvIVPb6xvPAWK_nSsrElE/edit?usp=sharing) where we changed the order of the elements a bit, and gave some example questions that could be answered. 
+
+
 
 ### Learning outcomes
 You will become critically aware of the visual world around you. You will be able to name and explain technical elements of images. You will know how these technical elements relate to the human visual system (eyes and brain) and therefore predict what information is communicated. Lastly, you will gain understanding about the role of visual communication in historical and contemporary society.  
@@ -55,6 +57,9 @@ For Part 1 we will use the following criteria:
 * Relevant: does the analysis apply to the image? 
 * Clear: is the analysis presented in an understandable way?
 * New: did you create novel insights (from the synthesis).
+
+UPDATE: The Rubric
+![alt text](images/rubrics1.png "Rubric Part 1")
 
 <!--### Rubric
 ![alt text](images/Rubrics1.png "Rubric Part 1")-->
@@ -88,6 +93,10 @@ For Part 2 we will use the following criteria:
 * Clear: are the results clearly presented?
 * True: is the interpretation of results critical? 
 
+UPDATE: The Rubric
+![alt text](images/rubrics2.png "Rubric Part 2")
+
+
 ### Dates
 - Draft: 27-mar-2020
 - Video feedback: 30-mar-2020
@@ -110,6 +119,10 @@ For Part 3 we will use the following criteria:
 * New: combines or creates something new
 * True: Able to reflect about the process
 * Like: 🙂
+
+UPDATE: The Rubric
+![alt text](images/rubrics3.png "Rubric Part 3")
+
 
 ### Dates
 - Draft: 3-apr-2020
