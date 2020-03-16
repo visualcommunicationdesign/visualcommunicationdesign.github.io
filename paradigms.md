@@ -11,6 +11,9 @@ Oh yes, you don't _have_ to use these. It is also fine to perform experiments us
 * **Independent variables**: Target, scene
 * **Dependent variables**: reaction time, accuracy
 * [**P5 code (single trial)**](https://editor.p5js.org/maartenwijntjes/full/ICs67kdbA)
+* [**P5 code (multiple trials)**](https://editor.p5js.org/maartenwijntjes/full/jfDppqO3)
+* [**P5 code (multiple trials show results)**](https://editor.p5js.org/maartenwijntjes/full/zCClCiqw)
+
 
 ## Change blindness
 * **What**: search for something changing in a scene
