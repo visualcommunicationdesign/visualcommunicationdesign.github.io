@@ -5,6 +5,8 @@ Here is a set of very simple P5 sketches could help you started with performing 
 
 Oh yes, you don't _have_ to use these. It is also fine to perform experiments using powerpoint, make a GIF, etc. Or use a questionaire on Google Forms, Qualtrix etc. There are many ways to investigate what people see. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bMFoH6jS0SY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Visual Search
 * **What**: search for a predefined target in a scene
@@ -13,6 +15,9 @@ Oh yes, you don't _have_ to use these. It is also fine to perform experiments us
 * [**P5 code (single trial)**](https://editor.p5js.org/maartenwijntjes/full/ICs67kdbA)
 * [**P5 code (multiple trials)**](https://editor.p5js.org/maartenwijntjes/full/jfDppqO3)
 * [**P5 code (multiple trials show results)**](https://editor.p5js.org/maartenwijntjes/full/zCClCiqw)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pZ1mIpM47dY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 ## Change blindness
