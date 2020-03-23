@@ -70,6 +70,10 @@ UPDATE: I made some crappy videos!
 * **Data analysis**: If you measure a bunch of attributes, you can perform [PCA](https://en.wikipedia.org/wiki/Principal_component_analysis). But simple correlations are also interesting. 
 * [**P5 code**](https://editor.p5js.org/Fairyland201/full/TW-AMw7B)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qlxVHdPNP28" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 ## Similarity
 * **What**: Rating two stimuli wrt their similarity (and do that for a bunch of pictures)
 * **Independent variables**: 
@@ -77,11 +81,16 @@ UPDATE: I made some crappy videos!
 * **Data analysis**: the similarity data can be used for [MDS](https://en.wikipedia.org/wiki/Multidimensional_scaling)
 * [**P5 code**](https://editor.p5js.org/Fairyland201/full/neTAQAxs)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9NjVbXw4MX4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 ## Matching
 * **What**: Parametric matching (in this case colour)
 * **Independent variables**: Scene, observer (colour blind, etc)
 * **Dependent variables**: (colour) parameters 
 * [**P5 code**](https://editor.p5js.org/maartenwijntjes/full/q7sJV6m7)
+* No video yet
 
 ## Classification (words)
 * **What**: Classifying a picture with predefined set of words (free wording is also interesting, but complex)
@@ -89,11 +98,15 @@ UPDATE: I made some crappy videos!
 * **Dependent variables**: [Accuracy and Precision](https://en.wikipedia.org/wiki/Accuracy_and_precision)
 * [**P5 code**](https://editor.p5js.org/mjpvz/full/OU_jX-An)
 
-
 ## Classification (pictures)
 * **What**: Classifying a picture with predefined set of examplar pictures
 * **Independent variables**: 
 * **Dependent variables**: [Accuracy and Precision](https://en.wikipedia.org/wiki/Accuracy_and_precision)
 * [**P5 code**](https://editor.p5js.org/mjpvz/full/V5-fXRQI)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rlTD-7qwrFQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 
 
