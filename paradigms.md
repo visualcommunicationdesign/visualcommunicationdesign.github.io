@@ -5,6 +5,8 @@ Here is a set of very simple P5 sketches could help you started with performing 
 
 Oh yes, you don't _have_ to use these. It is also fine to perform experiments using powerpoint, make a GIF, etc. Or use a questionaire on Google Forms, Qualtrix etc. There are many ways to investigate what people see. 
 
+UPDATE: I made some crappy videos!
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bMFoH6jS0SY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
@@ -26,6 +28,9 @@ Oh yes, you don't _have_ to use these. It is also fine to perform experiments us
 * **Dependent variables**: reaction time, accuracy
 * [**P5 code (single trial, no reaction time)**](https://editor.p5js.org/maartenwijntjes/full/GgLwmPwFo)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r6aZ9soygqQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 <!--
 * [**Visual Search** (single trial)](https://editor.p5js.org/maartenwijntjes/sketches/ICs67kdbA)
 
@@ -42,12 +47,20 @@ Oh yes, you don't _have_ to use these. It is also fine to perform experiments us
 * **Dependent variables**: distance
 * [**P5 code**](https://editor.p5js.org/maartenwijntjes/full/cPBdpHIrD)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPWBXqSaSxY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
 
 ## BubbleView
 * **What**: [this](http://bubbleview.namwkim.org)
 * **Independent variables**: Scene
 * **Dependent variables**: Attention positions, order. 
 * [**P5 code**](https://editor.p5js.org/maartenwijntjes/full/Uq_K0yPI)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RkKZK0pSRbk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 ## Attribute rating
