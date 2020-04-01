@@ -27,6 +27,9 @@ UPDATE: I made some crappy videos!
 * **Independent variables**: Target, scene
 * **Dependent variables**: reaction time, accuracy
 * [**P5 code (single trial, no reaction time)**](https://editor.p5js.org/maartenwijntjes/full/GgLwmPwFo)
+* [**P5 code (multiple trials, reaction time and click positions)**](https://editor.p5js.org/maartenwijntjes/sketches/Tr_Pnr051)
+
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r6aZ9soygqQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
