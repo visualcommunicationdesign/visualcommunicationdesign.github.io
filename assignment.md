@@ -100,7 +100,7 @@ UPDATE: The Rubric
 ### Dates
 - Draft: 1-apr-2020
 - Video feedback: 30-mar-2020
-- Final: 13-apr-2020
+- Final: 15-apr-2020
 
 * * *
 ## Part 3
@@ -127,7 +127,7 @@ UPDATE: The Rubric
 ### Dates
 - Draft: 1-apr-2020
 - Video feedback: 6-apr-2020
-- Final: 13-apr-2020
+- Final: 15-apr-2020
 
 
 <!--
