@@ -1,9 +1,11 @@
 # Experimental paradigms
-Here is a set of very simple P5 sketches could help you started with performing a perception experiment. Some examples of independent and dependent variables are provided. **Independent variables** are the factors you control (e.g. whether something is shown on colour or in grayscale) while **dependent variables** are what you measure (e.g. reaction time). 
+These are simple P5 sketches could help you started with performing a perception experiment. For more worked out experiments and integration with Amazon Mechanical Turk, visit [Sketch-and-Test](https://github.com/maartenwijntjes/p5-sketch-and-test). 
+
+Some examples of independent and dependent variables are provided. **Independent variables** are the factors you control (e.g. whether something is shown on colour or in grayscale) while **dependent variables** are what you measure (e.g. reaction time). 
 
 <!--Please check either check [Vision and Depiction (Draft)](https://homepage.tudelft.nl/w3s80/VisionAndDepiction.html#pf63) or search for the paradigm names if you want more info. -->
 
-Oh yes, you don't _have_ to use these. It is also fine to perform experiments using powerpoint, make a GIF, etc. Or use a questionaire on Google Forms, Qualtrix etc. There are many ways to investigate what people see. 
+Oh yes, you don't _have_ to use these for your assignment. It is also fine to perform experiments using powerpoint, make a GIF, etc. Or use a questionaire on Google Forms, Qualtrix etc. There are many ways to investigate what people see. 
 
 UPDATE: I made some crappy videos!
 

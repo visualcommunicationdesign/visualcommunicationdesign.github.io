@@ -35,9 +35,7 @@ Here is the selection of images you can use for your assignments.
 :-------------------------:|:-------------------------:
 ![](content/2020/avercamp.png) [search](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2020/avercamp.png)|![](content/2020/Redditors.png) [search](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2020/Redditors.png)
 :-------------------------:|:-------------------------:
-![](content/2020/koy.png) [search](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2020/koy.png)|![](content/2020/Alex_Tew.png) [search](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2020/Alex_Tew.png)
-:-------------------------:|:-------------------------:
-![](content/2020/StasnyOast.png) [search](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2020/StasnyOast.png)|![](content/2020/Ed_Stasny_and_Jon_Van_Oast.png) [search](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2020/Ed_Stasny_and_Jon_Van_Oast.png)
+![](content/2020/koy.png) [search](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2020/koy.png)|![](content/2020/StasnyOast.png) [search](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2020/StasnyOast.png)
 :-------------------------:|:-------------------------:
 ![](content/2020/Anna_Ridler.png) [search](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2020/Anna_Ridler.png)|![](content/2020/SK-A-2813.jpg) [search](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2020/SK-A-2813.jpg)
 :-------------------------:|:-------------------------:
