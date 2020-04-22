@@ -1,9 +1,3 @@
-# Puzzles!
-
-
-
-The puzzles you were waiting for! We only included those images that were part of our selection,  
-
 :-------------------------:|:-------------------------:
 [<img src="content/puzzles/11.png">](https://editor.p5js.org/Martine1996/full/mv7SnL1pQ) [source](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/puzzles/reference/11.jpg)|[<img src="content/puzzles/12.png">](https://editor.p5js.org/marjolein/full/s5CT3MATQ) [source](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/puzzles/reference/12.jpg)
 :-------------------------:|:-------------------------:
@@ -34,5 +28,3 @@ The puzzles you were waiting for! We only included those images that were part o
 [<img src="content/puzzles/5.png">](https://editor.p5js.org/katidejong96/full/Wx_6Q8LHD) [source](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/puzzles/reference/5.jpg)|[<img src="content/puzzles/6.png">](https://editor.p5js.org/laylaanicedeblok/full/JDO0OonHj) [source](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/puzzles/reference/6.jpg)
 :-------------------------:|:-------------------------:
 [<img src="content/puzzles/7.png">](https://editor.p5js.org/lauraeruys/full/T0vCIqXq-) [source](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/puzzles/reference/7.png)|[<img src="content/puzzles/8.png">](https://editor.p5js.org/lisedrost100/full/sN7X4XEeO) [source](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/puzzles/reference/8.jpg)
-
-
