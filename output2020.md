@@ -6,6 +6,9 @@ The assignments consistsed of three parts: Analysis, Evaluate and Create. We wil
 ## P5 sketches
 The P5 sketches from the Create 
 
+:-------------------------:|:-------------------------:
+![](content/2020/exhibition-hockney-van-gogh-museum.jpg) [source](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2020/scr4.png) [p5 sketch 1](https://editor.p5js.org/Jet/present/Gi1JtxEM-) [p5 sketch 2](https://editor.p5js.org/schmarjolein/full/_SwzUI2On)|![](content/2020/Archizoom.jpg) [search](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2020/Archizoom.jpg)
+
 
 ## Change Blindness experiment:
 The idea of the change blindess experiment and the puzzles below was born out of (corona) crisis: they were simplefied versions of the Evaluate and Create assignments. Interestingly, you start looking different at images when either doing a puzzle or change blindness work as you will notice below.
