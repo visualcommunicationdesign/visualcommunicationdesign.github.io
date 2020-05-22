@@ -7,6 +7,7 @@ The assignments consistsed of three parts: Analysis, Evaluate and Create. We wil
 The P5 sketches from the Create 
 
 :-------------------------|:-------------------------
+:-------------------------|:-------------------------
 ![](content/2020/exhibition-hockney-van-gogh-museum.jpg) <br> [source (reverse image search)](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2020/scr4.png) <br> [p5 sketch 1](https://editor.p5js.org/Jet/present/Gi1JtxEM-) <br> [p5 sketch 2](https://editor.p5js.org/schmarjolein/full/_SwzUI2On)  <br> [p5 sketch 3](https://editor.p5js.org/lichengtian98/full/bevm0D3lv) <br> [p5 sketch 4](https://editor.p5js.org/caspersmits/full/5jQDAGVL2)|![](content/2020/scr2.png) [source (reverse image search)](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2020/scr2.png) <br> [p5 sketch 1](https://editor.p5js.org/sharda.wolterink/full/QUY8XdpbM) <br> [p5 sketch 2](https://editor.p5js.org/chloe.morningroutine/full/DxpEPatvK)
 :-------------------------|:-------------------------
 ![](content/2020/DP226465.jpg) [search](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2020/DP226465.jpg)|![](content/2020/Disney.jpg) [search](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2020/Disney.jpg)
