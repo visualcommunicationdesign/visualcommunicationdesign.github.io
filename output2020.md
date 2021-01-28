@@ -53,7 +53,6 @@ Students doing the light version of Evaluate had to design three trials of a cha
 ## Puzzles
 
 
-
 :-------------------------:|:-------------------------:
 [<img src="content/puzzles/11.png">](https://editor.p5js.org/Martine1996/full/mv7SnL1pQ) [source](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/puzzles/reference/11.jpg)|[<img src="content/puzzles/12.png">](https://editor.p5js.org/marjolein/full/s5CT3MATQ) [source](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/puzzles/reference/12.jpg)
 :-------------------------:|:-------------------------:
