@@ -2,17 +2,21 @@
 ## Lecture schedule (2020)
 
 
---- | --- | --- | ---
-**week** | **study**	| **topic** | **discuss**  
-3.1 	| 8/2 8:45-12:30 | Introduction | 11/2 13:45-15:30  
-3.2 	| 15/2 8:45-12:30 | Seeing | 18/2 13:45-15:30  
-3.3 	| 22/2 8:45-12:30 | Texture | 25/2 13:45-15:30 
-3.4 	| 1/3 8:45-12:30 | Light  | 4/3 13:45-15:30 
-3.5 	| 8/3 8:45-12:30 | Space | 11/3 13:45-15:30 
-3.6 	| 15/3 8:45-12:30 P5 practical| P5+assignment | 18/3 13:45-15:30 
-3.7 	| 22/3 8:45-12:30 P5 practical| P5+assignment | 25/3 13:45-15:30  
-3.8 	| 29/3 8:45-12:30 P5 practical | P5+assignment | 1/4 13:45-15:30  
-3.9 	| / | Final presentation | 8/4 13:45-15:30 
+Each thursday we will meet online between 13:45-15:30 to discuss and answer questions. Prior to these sesssions you will listen to the lectures, read the book chapter and work on your weekly coding skill progress. The lectures and chapters will be posted on brightspace. The Coding train activities in the *Do* column are there to give some guideline of progress that will let you enjoy Part 3 of the assignment most. 
+
+
+
+--- | --- | --- | --- | --- | ---
+**week** | **study (8:45-12:30)**	| **Watch** 			| **Read** 	| **Do** 			| **Discuss (13:45-15:30)**  
+3.1 	| 8-feb  					| Introduction 			| Chapter 1	| 					| 11-feb  
+3.2 	| 15-feb 					| Seeing 				| Chapter 2	| Coding train 1-2	| 18-feb  
+3.3 	| 22-feb 					| Texture 				| Chapter 3	| Coding train 3-4	| 25-feb 
+3.4 	| 1-mar 					| Light  				| Chapter 4	| Coding train 5-6	| 4-mar 
+3.5 	| 8-mar 					| Space 				| Chapter 5	| Coding train 7	| 11-mar 
+3.6 	| 15-mar					| P5+assignment 		| 			| ml5 & libraries	| 18-mar 
+3.7 	| 22-mar					| P5+assignment 		| 			| 					| 25-mar  
+3.8 	| 29-mar					| P5+assignment 		| 			| 					| 1-apr  
+3.9 	| 							| Final presentation 	| 			| 					| 8-apr 
 
 
 
