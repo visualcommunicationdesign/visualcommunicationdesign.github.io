@@ -8,15 +8,23 @@
 
 ## Introduction
 
-Welcome to the online syllabus for Visual Communciation Design, a course for Design for Interaction (DfI) Master program students, and off course anyone else interested. In this course we have 3 main learning objectives:
-1.	Learn to 'read' existing visual communication designs (visual literacy).
+Welcome to the online syllabus for Visual Communciation Design, a course for Design for Interaction (DfI) Master program students, and anyone else interested. The learning objectives of this course are to *analyse*, *evaluate* and *create* visual communication:
+
+1.	Learn to analyse existing visual communication designs (visual literacy).
 2.	Apply emperical methods to quantify visual information communication. 
 3.	Design a code-based interactive visual.
 
+
+
+<!--
 The learning activities (assignments) each address a specific learning goal:
+
 1.	Choose and study a set of images based on theories about perception and depiction.
 2.	Design and conduct visual tests with a (small) group of observers, analyse and interpret data.  
 3.	Learn to read, adept and write P5.js sketches during practical training and online courses. 
+
+-->
+
 
 ## Course material
 
