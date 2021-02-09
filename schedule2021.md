@@ -9,15 +9,15 @@ Each thursday we will meet online between 14:45-16:30 to discuss and answer ques
 --- | --- | --- 
 **week**| **date**					| **Do**
 3.1		| 11-feb (14:45-16:30)		| General meeting 1	
-3.2		| 15-feb (8:45-12:30)		| Read chapter 1/2 <\br> Watch Lecture 1 <\br> Coding train 1-2
+3.2		| 15-feb (8:45-12:30)		| Read chapter 1/2 <br> Watch Lecture 1 <br> Coding train 1-2
 3.2		| 18-feb (14:45-16:30)		| General meeting 2
-3.3		| 15-feb (8:45-12:30)		| Read chapter 3 <\br> Watch Lecture 2 <\br> Coding train 3-4
+3.3		| 15-feb (8:45-12:30)		| Read chapter 3 <br> Watch Lecture 2 <br> Coding train 3-4
 3.3		| 18-feb (14:45-16:30)		| General meeting 3
-3.4		| 15-feb (8:45-12:30)		| Read chapter 4 <\br> Watch Lecture 3 <\br> Coding train 5-6
+3.4		| 15-feb (8:45-12:30)		| Read chapter 4 <br> Watch Lecture 3 <br> Coding train 5-6
 3.4		| 18-feb (14:45-16:30)		| General meeting 4
-3.5		| 15-feb (8:45-12:30)		| Read chapter 5 <\br> Watch Lecture 4 <\br> Coding train 7
+3.5		| 15-feb (8:45-12:30)		| Read chapter 5 <br> Watch Lecture 4 <br> Coding train 7
 3.5		| 18-feb (14:45-16:30)		| General meeting 5
-3.6		| 15-feb (8:45-12:30)		| Read chapter 2 <\br> Watch Lecture 5 <\br> ml5 & libraries
+3.6		| 15-feb (8:45-12:30)		| Read chapter 2 <br> Watch Lecture 5 <br> ml5 & libraries
 3.6		| 18-feb (14:45-16:30)		| General meeting 6
 
 
