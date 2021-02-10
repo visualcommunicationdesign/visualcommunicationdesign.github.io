@@ -7,18 +7,24 @@ Each thursday we will meet online between 14:45-16:30 to discuss and answer ques
 
 
 --- | --- | --- 
-**week**| **date**					| **Do**
+**week**| **date**					| **what**
 3.1		| 11-feb (14:45-16:30)		| General meeting 1	
 3.2		| 15-feb (8:45-12:30)		| Read chapter 1/2 <br> Watch Lecture 1 <br> Coding train 1-2
-3.2		| 18-feb (14:45-16:30)		| General meeting 2
-3.3		| 15-feb (8:45-12:30)		| Read chapter 3 <br> Watch Lecture 2 <br> Coding train 3-4
-3.3		| 18-feb (14:45-16:30)		| General meeting 3
-3.4		| 15-feb (8:45-12:30)		| Read chapter 4 <br> Watch Lecture 3 <br> Coding train 5-6
-3.4		| 18-feb (14:45-16:30)		| General meeting 4
-3.5		| 15-feb (8:45-12:30)		| Read chapter 5 <br> Watch Lecture 4 <br> Coding train 7
-3.5		| 18-feb (14:45-16:30)		| General meeting 5
-3.6		| 15-feb (8:45-12:30)		| Read chapter 2 <br> Watch Lecture 5 <br> ml5 & libraries
-3.6		| 18-feb (14:45-16:30)		| General meeting 6
+3.2		| 18-feb (14:45-16:30)		| General meeting - Perception
+3.3		| 22-feb (8:45-12:30)		| Read chapter 3 <br> Watch Lecture 2 <br> Coding train 3-4
+3.3		| 25-feb (14:45-16:30)		| General meeting - Texture 
+3.4		| 1-mar (8:45-12:30)		| Read chapter 4 <br> Watch Lecture 3 <br> Coding train 5-6
+3.4		| 4-mar (14:45-16:30)		| General meeting - Colour & Light
+3.5		| 8-mar (8:45-12:30)		| Read chapter 5 <br> Watch Lecture 4 <br> Coding train 7
+3.5		| 11-mar (14:45-16:30)		| General meeting - Space
+3.6		| 15-mar (8:45-12:30)		| P5 practical training online - I
+3.6		| 18-mar (14:45-16:30)		| General meeting - Feedback part 1/2
+3.7		| 22-mar (8:45-12:30)		| P5 practical training online - II
+3.7		| 25-mar (14:45-16:30)		| General meeting - Feedback part 1/2/3
+3.8		| 29-mar (8:45-12:30)		| P5 practical training online - III
+3.8		| 25-mar (14:45-16:30)		| General meeting - Feedback part 1/2/3
+
+
 
 
 
