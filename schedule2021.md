@@ -22,7 +22,8 @@ Each thursday we will meet online between 14:45-16:30 to discuss and answer ques
 3.7		| 22-mar (8:45-12:30)		| P5 practical training online - II
 3.7		| 25-mar (14:45-16:30)		| General meeting - Feedback part 1/2/3
 3.8		| 29-mar (8:45-12:30)		| P5 practical training online - III
-3.8		| 25-mar (14:45-16:30)		| General meeting - Feedback part 1/2/3
+3.8		| 1-apr (14:45-16:30)		| General meeting - Feedback part 1/2/3
+3.9		| 8-apr (14:45-16:30)		| Final meeting
 
 
 
