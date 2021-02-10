@@ -34,8 +34,7 @@ The learning activities (assignments) each address a specific learning goal:
 * **A Primer of Visual Literacy** by Donis A. Dondis (Recommended).
 
 ## Course results 2020
-
-Can be seen [here](/output2020)
+The original image selection we used on 2020 can be seen [here](/selection2020), and part of the outcome can be seen [here](/output2020). 
 
 <!--
 ## Learning objectives
