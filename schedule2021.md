@@ -9,13 +9,13 @@ Each thursday we will meet online between 14:45-16:30 to discuss and answer ques
 --- | --- | --- 
 **week**| **date**					| **what**
 3.1		| 11-feb (14:45-16:30)		| General meeting 1	
-3.2		| 15-feb (8:45-12:30)		| Read chapter 1/2 <br> Watch Lecture 1 <br> Coding train 1-2
+3.2		| 15-feb (8:45-12:30)		| Chapter 1/2 - Coding train 1-2
 3.2		| 18-feb (14:45-16:30)		| General meeting - Perception
-3.3		| 22-feb (8:45-12:30)		| Read chapter 3 <br> Watch Lecture 2 <br> Coding train 3-4
+3.3		| 22-feb (8:45-12:30)		| Read chapter 3 - Coding train 3-4
 3.3		| 25-feb (14:45-16:30)		| General meeting - Texture 
-3.4		| 1-mar (8:45-12:30)		| Read chapter 4 <br> Watch Lecture 3 <br> Coding train 5-6
+3.4		| 1-mar (8:45-12:30)		| Read chapter 4 -  Coding train 5-6
 3.4		| 4-mar (14:45-16:30)		| General meeting - Colour & Light
-3.5		| 8-mar (8:45-12:30)		| Read chapter 5 <br> Watch Lecture 4 <br> Coding train 7
+3.5		| 8-mar (8:45-12:30)		| Read chapter 5 -  Coding train 7
 3.5		| 11-mar (14:45-16:30)		| General meeting - Space
 3.6		| 15-mar (8:45-12:30)		| P5 practical training online - I
 3.6		| 18-mar (14:45-16:30)		| General meeting - Feedback part 1/2
