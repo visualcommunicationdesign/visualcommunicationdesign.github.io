@@ -21,7 +21,7 @@ The assignment consists of three parts, in the first you will apply your theoret
 We will use the CoNTRoL assesment criteria also used in [Context and Conceptualisation](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=36962): Clear, New, True, Relevant and Like. In each part we use a selection of these criteria, specified below. 
 
 * * *
-## Part 1
+## Part 1 - Analyse
 
 ### Introduction
 
@@ -92,7 +92,7 @@ UPDATE: The Rubric
 -->
 
 * * *
-## Part 2
+## Part 2 - Evaluate
 
 ### Learning outcomes
 After this part, you will be able to prepare, conduct and interpret empirical research related to visual communication. You will become familiar with standard paradigms such as visual search, change blindness, eye & mouse tracking, conspicuity, etc. You will know the strength but also weaknesses of empirical research and able to assess empirical results critically. 
@@ -126,7 +126,7 @@ UPDATE: The Rubric
 -->
 
 * * *
-## Part 3
+## Part 3 - Create
 
 ### Learning outcomes
 In the last part you will learn how to use code for visual sketching. We will use [P5js.org](https://P5js.org), a javascript version of Processing that is used by many artists and designers. You will learn how to create a code based image, what interactions are possible and how (machine learning) libraries work. 
