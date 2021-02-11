@@ -65,11 +65,16 @@ There are many ways to create visual information, as you will learn throughout t
 -->
 
 ## Teachers
+Maarten Wijntjes
+Catelijne van Middelkoop
+Jeroen Stumpel
+Yuguang Zhao
 
+<!--
 Maarten Wijntjes / <img src="images/wijntjes.png" alt="drawing" height="18"/>/ Office C-3-260
 
 Catelijne van Middelkoop / <img src="images/middelkoop.png" alt="drawing" height="18"/>  / Office C-3-100
 
 Mitchell van Zuijlen / <img src="images/zuijlen.png" alt="drawing" height="18"/> / Office C-2-090
-
+-->
 </div>
