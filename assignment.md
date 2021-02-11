@@ -7,7 +7,12 @@ You can use the reader (VCD) and our lectures as resource material. We will expl
 
 The assignment consists of three parts, in the first you will apply your theoretical understanding and curiosity to the **analysis** of images (works of art), in the second you will perform empirical **evaluations** and in the third part you will **create** code based visual communication. 
 
-Before starting the assignment, you will choose 6 images from our <a href="{{site.baseurl}}/selection2021">selection</a>. We carefully curated a set of interesting works that fit the course' context well. You will start with 6 images in the first part part 1, 2 for second part and 1 for the last part:
+> analyse → evaluate → create
+
+<!--Before starting the assignment, you will choose 6 images from our <a href="{{site.baseurl}}/selection2021">selection</a>. We carefully curated a set of interesting works that fit the course' context well. You will start with 6 images in the first part part 1, 2 for second part and 1 for the last part:
+-->
+
+
 
 <!--![](images/overviewSelectionProcedure.png)
 -->
