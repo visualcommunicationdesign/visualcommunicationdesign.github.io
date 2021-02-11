@@ -24,18 +24,7 @@ We will use the CoNTRoL assesment criteria also used in [Context and Conceptuali
 ## Part 1
 
 ### Introduction
-
-We will use the Jakobson model of verbal communication and apply it to *visual* communication. This model consists of 6 elements of communication:
-
-* **Sender** Who is the sender? Is the sender also the creator? What is the intention behind the message? 
-* **Receiver** Who will be reached by the message? How is the message interpreted? How does the message affect the receivers' state of mind?
-* **Context** What is the historical and social context? But also: what is the physical context, a museum, on the street, in a cave. And a bit meta: what is the form-context?
-* **Contact** What physical medium is used? Is it real or a facsimile? What network established contact between the sender and receiver?
-* **Code** What visual style is used to convey the message? What are the building blocks of the image?
-* **Message** What can be seen in the image, what objects, persons, relations, narratives are present?
-
-
-<!--Gombrich (1972) distinguishes between the *expressive*, *arousing* and *descriptive* function of images. In ‘A Primer of Visual Literacy’ (1973) Donis A. Dondis breaks down the expression and reception of visual messages on three levels of information retrieval: representation, abstraction and symbolism. All of  these levels “are interconnected and overlapping, but can be sufficiently distinguished from each other so that they can be analysed both as to their value as potential tactics for message-making and their quality in the process of seeing.” Furthermore, during the lectures and in the book we discussed the perceptual (what?), technical (how?) and contextual ingredients (when, where and why?) of visual communication. Taken together, we have a list of visual communication elements:
+Gombrich (1972) distinguishes between the *expressive*, *arousing* and *descriptive* function of images. In ‘A Primer of Visual Literacy’ (1973) Donis A. Dondis breaks down the expression and reception of visual messages on three levels of information retrieval: representation, abstraction and symbolism. All of  these levels “are interconnected and overlapping, but can be sufficiently distinguished from each other so that they can be analysed both as to their value as potential tactics for message-making and their quality in the process of seeing.” Furthermore, during the lectures and in the book we discussed the perceptual (what?), technical (how?) and contextual ingredients (when, where and why?) of visual communication. Taken together, we have a list of visual communication elements:
 
 * Expressive: What was the intention of the artist/designer? 
 * Arousing: Who is it made for and how is it received? 
@@ -48,7 +37,7 @@ We will use the Jakobson model of verbal communication and apply it to *visual* 
 * Contextual: What is the historical, social (economical) and cultural context?
 
 Take notice that this list is *interconnected, overlapping and incomplete*. UPDATE, we made a [google doc](https://docs.google.com/document/d/1DXR6YJvkKFGXYpCBWHJ_l7DvIVPb6xvPAWK_nSsrElE/edit?usp=sharing) where we changed the order of the elements a bit, and gave some example questions that could be answered. 
--->
+
 
 
 ### Learning outcomes
@@ -56,27 +45,25 @@ You will become critically aware of the visual world around you. You will be abl
 
 ### Instructions
 
-Select n (number to be announced) images from our <a href="{{site.baseurl}}/selection2021">selection</a> and base your analysis on the Jakobson model. Importantly, look for connections between the elements, for example between form and content. 
+Select 6 images from our <a href="{{site.baseurl}}/selection2020">selection</a> that you will analyse using the 9 elements mentioned above, in the introduction. 
 
-
-<!--
 **First** you will analyse these elements individually. You do not have to discuss all 9 elements for each image, only when they are relevant. But try to at least discuss each element at least once.
 
 **Second**, you will synthesize the analysis by discussing connections between any of the elements. You are free in choosing which combinations. 
--->
+
 <!--You are free to choose 6 images from the selection we made for you. We suggest to base your selection on:
 * your personal interest
 * affords different types of analysis
 * seem potentially interesting for Part 2 (empirically evaluation)-->
 
 ### Deliverables
-Use one A4 for each image with a maximum of 250 words. Illustrations can support your argumentation. The A4 pages should be bundled in 1 pdf file. Please make sure that this file does not exceed 20Mb. You can use ‘reduced filesize’ options in Adobe, for example. <!--The purpose here is twofold: 1) my hard disk is limited and 2) some of you need to gain awareness of file size management 🤔, it will look unprofessional if you would send out a 200Mb portfolio, for example. -->
+Use one A4 for each image with a maximum of 250 words. Illustrations can support your argumentation. The 6 A4 pages should be bundled in 1 pdf file. Please make sure that this file does not exceed 20Mb. You can use ‘reduced filesize’ options in Adobe, for example. The purpose here is twofold: 1) my hard disk is limited and 2) some of you need to gain awareness of file size management 🤔, it will look unprofessional if you would send out a 200Mb portfolio, for example. 
 
 ### Assessment criteria
 For Part 1 we will use the following criteria:
 * True: does the analysis apply to the image? 
 * Clear: is the analysis presented in an understandable way?
-* New: did you create novel insights.
+* New: did you create novel insights (from the synthesis).
 
 UPDATE: The Rubric
 ![alt text](images/Rubrics1.png "Rubric Part 1")
@@ -84,12 +71,10 @@ UPDATE: The Rubric
 <!--### Rubric
 ![alt text](images/Rubrics1.png "Rubric Part 1")-->
 
-<!--
 ### Dates
 - Draft: 20-mar-2020
 - Video feedback: 23-mar-2020
 - Final: 30-mar-2020
--->
 
 * * *
 ## Part 2
@@ -98,10 +83,10 @@ UPDATE: The Rubric
 After this part, you will be able to prepare, conduct and interpret empirical research related to visual communication. You will become familiar with standard paradigms such as visual search, change blindness, eye & mouse tracking, conspicuity, etc. You will know the strength but also weaknesses of empirical research and able to assess empirical results critically. 
 
 ### Instructions
-<!--Choose 2 images from the 6 you used in part 1.--> Formulate hypotheses for which you need empirical insight and explain the connection between hypothesis and paradigm (= the type of experiment). Use 2 different paradigms in each image, so you can also reflect on different types of information you can extract. Go to the (<a href="{{site.baseurl}}/paradigms">experimental paradigms</a>) page for more info, but be warned: you do not _have_ to use these, feel free to come up with your own ways of evaluating. 
+Choose 2 images from the 6 you used in part 1. Formulate hypotheses for which you need empirical insight and explain the connection between hypothesis and paradigm (= the type of experiment). Use 2 different paradigms in each image, so you can also reflect on different types of information you can extract. Go to the (<a href="{{site.baseurl}}/paradigms">experimental paradigms</a>) page for more info, but be warned: you do not _have_ to use these, feel free to come up with your own ways of evaluating. 
 
 ### Deliverables
-A pdf that includes the following (brief) sections:
+A 4 page pdf (2 pages per image) that includes the following (brief) sections:
 - Image name
 - Question (either a hypothesis or explorative question)
 - Experimental paradigm
@@ -118,12 +103,11 @@ For Part 2 we will use the following criteria:
 UPDATE: The Rubric
 ![alt text](images/rubrics2.png "Rubric Part 2")
 
-<!--
+
 ### Dates
 - Draft: 1-apr-2020
 - Video feedback: 30-mar-2020
 - Final: 15-apr-2020
--->
 
 * * *
 ## Part 3
@@ -145,13 +129,13 @@ For Part 3 we will use the following criteria:
 
 UPDATE: The Rubric
 ![alt text](images/rubrics3.png "Rubric Part 3" )
-<!--
+
 
 ### Dates
 - Draft: 1-apr-2020
 - Video feedback: 6-apr-2020
 - Final: 15-apr-2020
--->
+
 
 <!--
 ![alt text](content/2020/Cecilia.jpg "Cecilia")
