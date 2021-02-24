@@ -84,3 +84,5 @@
 ![](content/2021/Madelon_Vriesendorp1.jpg) [search](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2021/Madelon_Vriesendorp1.jpg)|![](content/2021/6.jpeg) [search](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2021/6.jpeg)
 :-------------------------:|:-------------------------:
 ![](content/2021/Tala_Madani_1.jpg) [search](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2021/Tala_Madani_1.jpg)|![](content/2021/James_Whistler.jpg) [search](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2021/James_Whistler.jpg)
+:-------------------------:|:-------------------------:
+![](content/2021/James_Whistler.jpg) [search](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2021/James_Whistler.jpg)|![](content/2021/James_Whistler.jpg) [search](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2021/James_Whistler.jpg)
