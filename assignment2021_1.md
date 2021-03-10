@@ -5,9 +5,9 @@
 You can use the reader (VCD) and our lectures as resource material. We will explain all the basics of perception and design. If you need more resources I recommend Visual Thinking for Design (perception & design) and Ways of Seeing (meaning).  
 -->
 
-This assignment will introduce you to various aspects of visual communication design. In the first part you will learn about visual communication by analyzing pictures *theoretically*, i.e. based on what you know from reading materials, lectures and own insights/reasoning. In the second part you will use an *empirical* approach based on experiments you will conduct. The last part requires a *creative* approach, where you will design your own form of visual communication. In short:
+The assignment consists of three parts, in the first you will apply your theoretical understanding and curiosity to the **analysis** of images (works of art), in the second you will perform empirical **evaluations** and in the third part you will **create** code based visual communication. 
 
-> analyze → evaluate → create
+> analyse → evaluate → create
 
 <!--Before starting the assignment, you will choose 6 images from our <a href="{{site.baseurl}}/selection2021">selection</a>. We carefully curated a set of interesting works that fit the course' context well. You will start with 6 images in the first part part 1, 2 for second part and 1 for the last part:
 -->
@@ -17,36 +17,22 @@ This assignment will introduce you to various aspects of visual communication de
 <!--![](images/overviewSelectionProcedure.png)
 -->
 
-## General assessment criteria
-We will use the CoNTRoL assessment criteria also used in [Context and Conceptualisation](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=36962): Clear, New, True, Relevant and Like. In each part we use a selection of these criteria, specified below. 
+## General assesment criteria
+We will use the CoNTRoL assesment criteria also used in [Context and Conceptualisation](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=36962): Clear, New, True, Relevant and Like. In each part we use a selection of these criteria, specified below. 
 
 * * *
-## Part 1 - Analyze
+## Part 1 - Analyse
 
 ### Introduction
 
-You can analyze a picture in a million different ways, so we need some kind of framework. We believe the Jakobson model is well suited to address  important elements of visual communication. This model consists of 6 elements that serve as a framework to start your thinking about visual communication. 
-
+We will use the Jakobson model of verbal communication and apply it to *visual* communication. This model consists of 6 elements of communication:
 
 * **Sender** Who is the sender? Is the sender also the creator? What is the intention behind the message? 
 * **Receiver** Who will be reached by the message? How is the message interpreted? How does the message affect the receivers' state of mind?
 * **Context** What is the historical and social context? But also: what is the physical context, a museum, on the street, in a cave. And a bit meta: what is the form-context?
 * **Contact** What physical medium is used? Is it real or a facsimile? What network established contact between the sender and receiver?
-* **Code** What visual style is used to convey the message? What are the building blocks of the image? What are the conventions used? 
+* **Code** What visual style is used to convey the message? What are the building blocks of the image?
 * **Message** What can be seen in the image, what objects, persons, relations, narratives are present?
-
-When doing the analysis, don't worry about...
-
-* to which elements something belongs. It is either of interest (to you) or it's not, but it does not matter whether it belongs to 'code' or 'message'.
-* following the list like a questionnaire. You can do it as a start, but then start connecting dots & removing irrelevant info.
-
-but do worry about...
-
-* follow up your observation with questions and reasoning, generalize, discuss implications etc. For example, when you find that the work was not made/produced by the artist: how would that affect your own appreciation, and that of the public? And are there other examples of outsourcing production? Is it happening today? In which areas? Would it be allowed to let another student 'produce' your assignment like an artwork, or is that fraud? 
-* enjoy developing original thoughts. Off course you can search for info but let that be a start, not the finish. Don't worry whether your original thoughts are maybe already known somewhere. It is really about the process that you can experience creating insights.
-
-
-
 
 
 <!--Gombrich (1972) distinguishes between the *expressive*, *arousing* and *descriptive* function of images. In ‘A Primer of Visual Literacy’ (1973) Donis A. Dondis breaks down the expression and reception of visual messages on three levels of information retrieval: representation, abstraction and symbolism. All of  these levels “are interconnected and overlapping, but can be sufficiently distinguished from each other so that they can be analysed both as to their value as potential tactics for message-making and their quality in the process of seeing.” Furthermore, during the lectures and in the book we discussed the perceptual (what?), technical (how?) and contextual ingredients (when, where and why?) of visual communication. Taken together, we have a list of visual communication elements:
@@ -70,7 +56,7 @@ You will become critically aware of the visual world around you. You will be abl
 
 ### Instructions
 
-Select 4 images from our <a href="{{site.baseurl}}/selection2021">selection</a> and base your analysis on the Jakobson model. Importantly, look for connections between the elements, for example between form and content. 
+Select n (number to be announced) images from our <a href="{{site.baseurl}}/selection2021">selection</a> and base your analysis on the Jakobson model. Importantly, look for connections between the elements, for example between form and content. 
 
 
 <!--
