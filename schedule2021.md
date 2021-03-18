@@ -29,7 +29,7 @@ Each thursday we will meet online between 14:45-16:30 to discuss and answer ques
 ## Deadlines
 
 - Part 1/2: 30-mar
-- Part 3: 6-feb
+- Part 3: 6-apr
 
 
 
