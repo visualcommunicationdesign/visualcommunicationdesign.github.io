@@ -112,7 +112,7 @@ UPDATE: The Rubric
 After this part, you will be able to prepare, conduct and interpret empirical research related to visual communication. You will become familiar with standard paradigms such as visual search, change blindness, eye & mouse tracking, conspicuity, etc. You will know the strength but also weaknesses of empirical research and able to assess empirical results critically. 
 
 ### Instructions
-<!--Choose 2 images from the 6 you used in part 1.--> Formulate hypotheses for which you need empirical insight and explain the connection between hypothesis and paradigm (= the type of experiment). Use 2 different paradigms in each image, so you can also reflect on different types of information you can extract. Go to the (<a href="{{site.baseurl}}/paradigms">experimental paradigms</a>) page for more info, but be warned: you do not _have_ to use these, feel free to come up with your own ways of evaluating. 
+<!--Choose 2 images from the 6 you used in part 1.--> Choose 1 image (per person). Formulate hypotheses for which you need empirical insight and explain the connection between hypothesis and paradigm (= the type of experiment). Use 2 different paradigms in each image, so you can also reflect on different types of information you can extract. Go to the (<a href="{{site.baseurl}}/paradigms">experimental paradigms</a>) page for more info, but be warned: you do not _have_ to use these, feel free to come up with your own ways of evaluating. 
 
 ### Deliverables
 A pdf that includes the following (brief) sections:
