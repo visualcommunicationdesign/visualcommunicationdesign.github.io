@@ -42,12 +42,13 @@ See Brightspace for reading material and lectures.
 
 :-------------------------|:-------------------------
 :-------------------------|:-------------------------
-![](content/2021/39.jpg)<br>[source (reverse image search)](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2021/39.jpg)<br>[p5 sketch 1]( https://editor.p5js.org/Noor78/full/9gTIRxYrS)|![](content/2021/73.jpg)<br>[source (reverse image search)](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2021/73.jpg)<br>[p5 sketch 1](https://editor.p5js.org/JoseDijks/full/9WT4I7wtM)<br>[p5 sketch 2](https://editor.p5js.org/RHagendijk/full/UbpuiX6da)
+<a href="https://editor.p5js.org/metijsma/full/gmFblCF5C" rel="some text">![Foo](content/2021/51.jpg)</a>
+![](content/2021/39.jpg)<br>[source (reverse image search)](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2021/39.jpg)|![](content/2021/73.jpg)<br>[source (reverse image search)](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2021/73.jpg)<br>[p5 sketch 1](https://editor.p5js.org/JoseDijks/full/9WT4I7wtM)<br>[p5 sketch 2](https://editor.p5js.org/RHagendijk/full/UbpuiX6da)
 :-------------------------|:-------------------------
 ![](content/2021/39.jpg)<br>[source (reverse image search)](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2021/39.jpg)<br>[p5 sketch 1]( https://editor.p5js.org/Noor78/full/9gTIRxYrS)|![](content/2021/73.jpg)<br>[source (reverse image search)](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2021/73.jpg)<br>[p5 sketch 1](https://editor.p5js.org/JoseDijks/full/9WT4I7wtM)<br>[p5 sketch 2](https://editor.p5js.org/RHagendijk/full/UbpuiX6da)
 
 
-<a href="http://google.com.au/" rel="some text">![Foo](http://www.google.com.au/images/nav_logo7.png)</a>
+<a href="https://editor.p5js.org/metijsma/full/gmFblCF5C" rel="some text">![Foo](content/2021/51.jpg)</a>
 
 
 ## Course results 2020
