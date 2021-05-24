@@ -40,6 +40,12 @@ See Brightspace for reading material and lectures.
 
 ## Course results 2021
 
+
+![](content/2021/1.jpg){:width="50%"}<br>
+![](content/2021/1.jpg){:width="100%"}
+
+
+
 :-------------------------|:-------------------------
 :-------------------------|:-------------------------
 <a href="https://editor.p5js.org/metijsma/full/gmFblCF5C" rel="some text">![Foo](content/2021/51.jpg)</a>
