@@ -1,5 +1,4 @@
-
-## Output 2021
+## Output 2020
 
 The assignments consistsed of three parts: Analysis, Evaluate and Create. We will show some of the Analysis and Evaluate work in the video's around each artwork that we publish later. However, the Create assignment is made to be shared online! You may miss some comments/explanation, they are in the deliverables but we cannot share them. A nice point for improvement for next year! 
 
@@ -8,12 +7,19 @@ The P5 sketches from in the Create assignment. These are uncurated because all o
 
 :-------------------------|:-------------------------
 :-------------------------|:-------------------------
+![](content/2020/Jasper_Johns.jpg)<br>[source (reverse image search)](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2020/Jasper_Johns.jpg)<br>[p5 sketch 1](https://editor.p5js.org/Steffan_Roskam/full/hsmGrB_Lj)<br>[p5 sketch 2](https://editor.p5js.org/JuliaBeckmann/full/1dedT3O_X)|![](content/2020/Cory_Arcangel.jpeg)<br>[source (reverse image search)](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2020/Cory_Arcangel.jpeg)<br>[p5 sketch 1](https://editor.p5js.org/ahemerik/full/qcGn2VHvT)
+:-------------------------|:-------------------------
+![](content/2020/Jeff_Koons.jpg)<br>[source (reverse image search)](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2020/Jeff_Koons.jpg)<br>[p5 sketch 1](https://editor.p5js.org/boazvanderkleij/full/y100pdFMy)|![](content/2020/Pei-Shen_Qian.jpg)<br>[source (reverse image search)](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2020/Pei-Shen_Qian.jpg)<br>[p5 sketch 1](https://editor.p5js.org/Azurexuan/full/9CdjsKzF8)<br>[p5 sketch 2](https://editor.p5js.org/myronwouts/full/vQvf68-EI)<br>[p5 sketch 3](https://editor.p5js.org/oscarverbeek@gmail.com/full/PLXYqcsEG)
+
+<!--
+:-------------------------|:-------------------------
+:-------------------------|:-------------------------
 ![](content/2021/39.jpg)<br>[source (reverse image search)](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2021/39.jpg)<br>[p5 sketch 1]( https://editor.p5js.org/Noor78/full/9gTIRxYrS)|![](content/2021/73.jpg)<br>[source (reverse image search)](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2021/73.jpg)<br>[p5 sketch 1](https://editor.p5js.org/JoseDijks/full/9WT4I7wtM)<br>[p5 sketch 2](https://editor.p5js.org/RHagendijk/full/UbpuiX6da)
 :-------------------------|:-------------------------
 ![](content/2021/10.jpg)<br>[source (reverse image search)](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2021/10.jpg)<br>[p5 sketch 1](https://editor.p5js.org/lottewave/present/LJO1r8OE5
 )<br>[p5 sketch 2](https://editor.p5js.org/peet.van.oost/full/6Llan4puu)<br>[p5 sketch 3](https://editor.p5js.org/Shunta/full/dQkuJQoG9)<br>[p5 sketch 4](https://editor.p5js.org/vicky97/present/Ny0p9Dk5J
 )|![](content/2021/51.jpg)<br>[source (reverse image search)](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2021/51.jpg)<br>[p5 sketch 1](https://editor.p5js.org/metijsma/full/gmFblCF5C)<br>[p5 sketch 2](https://editor.p5js.org/nevalinn/full/FPDxzwEhJ)
-<!--:-------------------------|:-------------------------
+:-------------------------|:-------------------------
 ![](content/2021/20.jpg)<br>[source (reverse image search)](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2021/20.jpg)<br>[p5 sketch 1](https://editor.p5js.org/avanderwal/full/-BYNEz2ZZ)|![](content/2021/21.jpg)<br>[source (reverse image search)](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2021/21.jpg)<br>[p5 sketch 1](https://editor.p5js.org/elinewildenberg/full/mlYuI4ZMj)
 :-------------------------|:-------------------------
 ![](content/2021/72.jpg)<br>[source (reverse image search)](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2021/72.jpg)<br>[p5 sketch 1](https://editor.p5js.org/jvangiffen/present/W6VFbZTrG)<br>[p5 sketch 2](https://editor.p5js.org/lara-ai-dev/present/Za0H5-jiF)<br>[p5 sketch 3](https://editor.p5js.org/webwizardmilavr/full/ZEA7jopyk
