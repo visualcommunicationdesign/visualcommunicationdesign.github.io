@@ -1,12 +1,11 @@
 
-## Output 2020
+## Output 2021
 
 The assignments consistsed of three parts: Analysis, Evaluate and Create. We will show some of the Analysis and Evaluate work in the video's around each artwork that we publish later. However, the Create assignment is made to be shared online! You may miss some comments/explanation, they are in the deliverables but we cannot share them. A nice point for improvement for next year! 
 
 ## P5 sketches
 The P5 sketches from in the Create assignment. These are uncurated because all of them are interesting. Yet, you may find certain sketches more inspiring/interesting for your particular goal than others, so I recommend clicking on a few to get an idea of the variation. 
 
-:-------------------------|:-------------------------
 :-------------------------|:-------------------------
 ![](content/2020/39.jpg)<br>[source (reverse image search)](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2021/39.jpg)<br>[p5 sketch 1]( https://editor.p5js.org/Noor78/full/9gTIRxYrS)|![](content/2021/73.jpg)<br>[source (reverse image search)](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2021/73.jpg)<br>[p5 sketch 1](https://editor.p5js.org/JoseDijks/full/9WT4I7wtM)<br>[p5 sketch 2](https://editor.p5js.org/RHagendijk/full/UbpuiX6da)
 :-------------------------|:-------------------------
