@@ -43,9 +43,9 @@ See Brightspace for reading material and lectures.
 
 :-------------------------|:-------------------------
 :-------------------------|:-------------------------
-![](content/2021/12.jpg)<br>[source](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2021/12.jpg)|![](content/2021/12.gif)<br>[P5 sketch](https://editor.p5js.org/VeryFatCat/full/LDdK4hnI_)
-:-------------------------|:-------------------------
-![](content/2021/18.jpg)|![](content/2021/18.gif)
+<img src="ontent/2021/12.jpg" alt="drawing" width="50%"/><br>[source](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2021/12.jpg)|img src="ontent/2021/12.gif" alt="drawing" width="50%"/><br>[P5 sketch](https://editor.p5js.org/VeryFatCat/full/LDdK4hnI_)
+
+
 
 ## Course results 2020
 The original image selection we used on 2020 can be seen [here](/selection2020), and part of the outcome can be seen [here](/output2020). On Brightspace you can also find some feedback videos of last year. 
