@@ -43,9 +43,9 @@ See Brightspace for reading material and lectures.
 
 :-------------------------|:-------------------------
 :-------------------------|:-------------------------
-![](content/2021/18.jpg)|![](content/2021/51.jpg)
+![](content/2021/12.jpg)|![](content/2021/12.gif)
 :-------------------------|:-------------------------
-![](content/2021/77.jpg)|![](content/2021/73.jpg)
+![](content/2021/18.jpg)|![](content/2021/18.gif)
 
 ## Course results 2020
 The original image selection we used on 2020 can be seen [here](/selection2020), and part of the outcome can be seen [here](/output2020). On Brightspace you can also find some feedback videos of last year. 
