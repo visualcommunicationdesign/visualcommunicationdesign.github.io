@@ -43,7 +43,7 @@ See Brightspace for reading material and lectures.
 
 :-------------------------|:-------------------------
 :-------------------------|:-------------------------
-![](content/2021/12.jpg)|![](content/2021/12.gif)
+![](content/2021/12.jpg)<br>[source](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2021/12.jpg)|![](content/2021/12.gif)<br>[P5 sketch](https://editor.p5js.org/VeryFatCat/full/LDdK4hnI_)
 :-------------------------|:-------------------------
 ![](content/2021/18.jpg)|![](content/2021/18.gif)
 
