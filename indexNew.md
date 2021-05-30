@@ -43,8 +43,21 @@ See Brightspace for reading material and lectures.
 
 :-------------------------|:-------------------------
 :-------------------------|:-------------------------
-<img src="content/2021/12.jpg" alt="drawing" width="300"/><br>[source](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2021/12.jpg)|<img src="content/2021/12.gif" alt="drawing" width="300"/><br>[P5 sketch](https://editor.p5js.org/VeryFatCat/full/LDdK4hnI_)
-
+<img src="content/2021/12.jpg" alt="drawing" width="400"/><br>[source](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2021/12.jpg)|<img src="content/2021/12.gif" alt="drawing" width="400"/><br>[P5 sketch](https://editor.p5js.org/VeryFatCat/full/LDdK4hnI_)
+:-------------------------|:-------------------------
+<img src="content/2021/16.jpg" alt="drawing" width="400"/><br>[source](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2021/16.jpg)|<img src="content/2021/16.gif" alt="drawing" width="400"/><br>[P5 sketch](https://editor.p5js.org/Ronne/full/7u10Zulv2)
+:-------------------------|:-------------------------
+<img src="content/2021/18.jpg" alt="drawing" width="400"/><br>[source](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2021/18.jpg)|<img src="content/2021/18.gif" alt="drawing" width="400"/><br>[P5 sketch](https://editor.p5js.org/MaritvanGrinsven/full/r-BznOApd)
+:-------------------------|:-------------------------
+<img src="content/2021/47.jpg" alt="drawing" width="400"/><br>[source](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2021/47.jpg)|<img src="content/2021/47.gif" alt="drawing" width="400"/><br>[P5 sketch](https://editor.p5js.org/dcdejong/full/BVigA28u-)
+:-------------------------|:-------------------------
+<img src="content/2021/50.jpg" alt="drawing" width="400"/><br>[source](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2021/50.jpg)|<img src="content/2021/50.gif" alt="drawing" width="400"/><br>[P5 sketch](https://editor.p5js.org/kimboltjes/full/c798Hialt)
+:-------------------------|:-------------------------
+<img src="content/2021/51.jpg" alt="drawing" width="400"/><br>[source](https://51.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2021/12.jpg)|<img src="content/2021/51.gif" alt="drawing" width="400"/><br>[P5 sketch](https://editor.p5js.org/metijsma/full/gmFblCF5C)
+:-------------------------|:-------------------------
+<img src="content/2021/70.jpg" alt="drawing" width="400"/><br>[source](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2021/70.jpg)|<img src="content/2021/70.gif" alt="drawing" width="400"/><br>[P5 sketch](https://editor.p5js.org/hackermanVW/full/aOou4vLm_)
+:-------------------------|:-------------------------
+<img src="content/2021/73.jpg" alt="drawing" width="400"/><br>[source](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2021/74.jpg)|<img src="content/2021/73.gif" alt="drawing" width="400"/><br>[P5 sketch](https://editor.p5js.org/JoseDijks/full/9WT4I7wtM)
 
 
 ## Course results 2020
