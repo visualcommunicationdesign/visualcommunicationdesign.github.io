@@ -40,7 +40,8 @@ See Brightspace for reading material and lectures.
 
 ## Course results 2021
 
-
+Every year we study existing visual works from three perspectives: theoretical analysis, empirical psychological experiments and visual design in p5.js. Below you will see a very small selection of that last part, the p5.js creations.  Students started the course choosing from [this](/selection2021) and all p5.js results can be found  [here](/output2021). Below you can see 8 examples, including GIFs and links. I should mention this is not necessarily the top 8 but they are all very good and give a nice first impression. 
+ 
 :-------------------------|:-------------------------
 :-------------------------|:-------------------------
 <img src="content/2021/12.jpg" alt="drawing" width="400"/><br>[source](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2021/12.jpg)|<img src="content/2021/12.gif" alt="drawing" width="400"/><br>[P5 sketch](https://editor.p5js.org/VeryFatCat/full/LDdK4hnI_)
