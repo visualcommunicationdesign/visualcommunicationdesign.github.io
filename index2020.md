@@ -12,7 +12,7 @@ Welcome to the online syllabus for Visual Communciation Design, a course for Des
 
 1.	Learn to analyse existing visual communication designs.
 2.	Apply emperical methods to quantify visual information communication. 
-3.	Visually communication with code (with P5.js).
+3.	Visually communicate via code (with P5.js).
 
 
 
@@ -36,29 +36,6 @@ See Brightspace for reading material and lectures.
 * **Ways of Seeing** by John Berger (Recommended), either in [book form](https://www.amazon.co.uk/dp/014103579X/ref=rdr_ext_tmb) or from his [BBC series](https://youtu.be/0pDE4VX_9Kk).
 * **A Primer of Visual Literacy** by Donis A. Dondis (Recommended).
 -->
-
-
-## Course results 2021
-
-Every year we study existing visual works from three perspectives: theoretical analysis, empirical psychological experiments and visual design in p5.js. Below you will see a very small selection of that last part, the p5.js creations.  Students started the course choosing from [this](/selection2021) and all p5.js results can be found  [here](/output2021). Below you can see 8 examples, including GIFs and links. I should mention this is not necessarily the top 8 but they are all very good and give a nice first impression. 
- 
-:-------------------------|:-------------------------
-:-------------------------|:-------------------------
-<img src="content/2021/12.jpg" alt="drawing" width="400"/><br>[source](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2021/12.jpg)|<img src="content/2021/12.gif" alt="drawing" width="400"/><br>[P5 sketch](https://editor.p5js.org/VeryFatCat/full/LDdK4hnI_)
-:-------------------------|:-------------------------
-<img src="content/2021/16.jpg" alt="drawing" width="400"/><br>[source](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2021/16.jpg)|<img src="content/2021/16.gif" alt="drawing" width="400"/><br>[P5 sketch](https://editor.p5js.org/Ronne/full/7u10Zulv2)
-:-------------------------|:-------------------------
-<img src="content/2021/18.jpg" alt="drawing" width="400"/><br>[source](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2021/18.jpg)|<img src="content/2021/18.gif" alt="drawing" width="400"/><br>[P5 sketch](https://editor.p5js.org/MaritvanGrinsven/full/r-BznOApd)
-:-------------------------|:-------------------------
-<img src="content/2021/47.jpg" alt="drawing" width="400"/><br>[source](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2021/47.jpg)|<img src="content/2021/47.gif" alt="drawing" width="400"/><br>[P5 sketch](https://editor.p5js.org/dcdejong/full/BVigA28u-)
-:-------------------------|:-------------------------
-<img src="content/2021/50.jpg" alt="drawing" width="400"/><br>[source](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2021/50.jpg)|<img src="content/2021/50.gif" alt="drawing" width="400"/><br>[P5 sketch](https://editor.p5js.org/kimboltjes/full/c798Hialt)
-:-------------------------|:-------------------------
-<img src="content/2021/51.jpg" alt="drawing" width="400"/><br>[source](https://51.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2021/12.jpg)|<img src="content/2021/51.gif" alt="drawing" width="400"/><br>[P5 sketch](https://editor.p5js.org/metijsma/full/gmFblCF5C)
-:-------------------------|:-------------------------
-<img src="content/2021/70.jpg" alt="drawing" width="400"/><br>[source](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2021/70.jpg)|<img src="content/2021/70.gif" alt="drawing" width="400"/><br>[P5 sketch](https://editor.p5js.org/hackermanVW/full/aOou4vLm_)
-:-------------------------|:-------------------------
-<img src="content/2021/73.jpg" alt="drawing" width="400"/><br>[source](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2021/74.jpg)|<img src="content/2021/73.gif" alt="drawing" width="400"/><br>[P5 sketch](https://editor.p5js.org/JoseDijks/full/9WT4I7wtM)
 
 
 ## Course results 2020
@@ -88,9 +65,10 @@ There are many ways to create visual information, as you will learn throughout t
 -->
 
 ## Teachers
-Maarten Wijntjes <br>
-Catelijne van Middelkoop <br>
-Yuguang Zhao <br>
+Maarten Wijntjes
+Catelijne van Middelkoop
+Jeroen Stumpel
+Yuguang Zhao
 
 <!--
 Maarten Wijntjes / <img src="images/wijntjes.png" alt="drawing" height="18"/>/ Office C-3-260
