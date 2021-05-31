@@ -41,7 +41,11 @@ See Brightspace for reading material and lectures.
 
 ## Course results 2021
 
-Every year we study existing visual works from three perspectives: theoretical analysis, empirical psychological experiments and visual design in p5.js. Below you will see a very small selection of that last part, the p5.js creations.  Students started the course choosing from [this](/selection2021) and all p5.js results can be found  [here](/output2021). Below you can see 8 examples, including GIFs and links. I should mention this is not necessarily the top 8 but they are all very good and give a nice first impression. 
+* **[Selection](/selection2021)** of artworks we studied this year.
+* **[Output ](/output2021)** of the final p5.js assignment. 
+
+
+Every year we study existing visual works from three perspectives: theoretical analysis, empirical psychological experiments and visual design in p5.js. Below you will see a very small selection of that last part, the p5.js creations. This is not necessarily the top 8 but they are all very good and give a nice first impression. 
  
 :-------------------------|:-------------------------
 :-------------------------|:-------------------------
