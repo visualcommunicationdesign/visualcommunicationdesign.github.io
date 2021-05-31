@@ -45,7 +45,9 @@ See Brightspace for reading material and lectures.
 * **[Output ](/output2021)** of the final p5.js assignment. 
 
 
-Every year we study existing visual works from three perspectives: theoretical analysis, empirical psychological experiments and visual design in p5.js. Below you will see a very small selection of that last part, the p5.js creations. This is not necessarily the top 8 but they are all very good and give a nice first impression. 
+Every year we study existing visual artworks from three perspectives: theoretical analysis, empirical psychological experiments and visual design in p5.js. Below you will see a very small selection of that last part, the p5.js creations. This is not necessarily the top 8 but they are all very good and give a nice first impression. 
+
+P.S. If the p5.js links don't work, try another browser (e.g. Chrome). Oh yes, and be prepared to activate you webcam as many students enthusiastically used face or body tracking.  
  
 :-------------------------|:-------------------------
 :-------------------------|:-------------------------
