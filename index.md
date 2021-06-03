@@ -53,7 +53,7 @@ P.S. If the p5.js links don't work, try another browser (e.g. Chrome). Oh yes, a
 :-------------------------|:-------------------------
 <img src="content/2021/12.jpg" alt="drawing" width="400"/><br>[source](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2021/12.jpg)|<img src="content/2021/12.gif" alt="drawing" width="400"/><br>[P5 sketch](https://editor.p5js.org/VeryFatCat/full/LDdK4hnI_)
 :-------------------------|:-------------------------
-<img src="content/2021/16.jpg" alt="drawing" width="400"/><br>[source](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2021/16.jpg)|<img src="content/2021/16.gif" alt="drawing" width="400"/><br>[P5 sketch](https://editor.p5js.org/Ronne/full/7u10Zulv2)
+<img src="content/2021/16b.png" alt="drawing" width="400"/><br>[source](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2021/16b.png)|<img src="content/2021/16.gif" alt="drawing" width="400"/><br>[P5 sketch](https://editor.p5js.org/Ronne/full/7u10Zulv2)
 :-------------------------|:-------------------------
 <img src="content/2021/18.jpg" alt="drawing" width="400"/><br>[source](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2021/18.jpg)|<img src="content/2021/18.gif" alt="drawing" width="400"/><br>[P5 sketch](https://editor.p5js.org/MaritvanGrinsven/full/r-BznOApd)
 :-------------------------|:-------------------------
