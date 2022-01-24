@@ -96,7 +96,7 @@ Select 4 images from our <a href="{{site.baseurl}}/selection2021">selection</a> 
 
 <!--### Deliverables
 Use one A4 for each image with a maximum of 250 words. Illustrations can support your argumentation. The A4 pages should be bundled in 1 pdf file. Please make sure that this file does not exceed 20Mb. You can use ‘reduced filesize’ options in Adobe, for example. <!--The purpose here is twofold: 1) my hard disk is limited and 2) some of you need to gain awareness of file size management 🤔, it will look unprofessional if you would send out a 200Mb portfolio, for example. -->
--->
+
 
 
 ### Assessment criteria
@@ -168,6 +168,13 @@ For Part 3 we will use the following criteria:
 -->
 
 ## Deliverables
+
+* A recorded presentation of 4 minutes
+* A pdf (max 6 pages / 20 mb )
+* Link to p5 sketch
+* A GIF of p5 sketch
+
+
 
 
 A 1 page pdf that contains a reflecton about how you approached the problem and what kind of iterations you went through. Word limit is 300 words. It should also include a link using Share ➡️ Fullscreen, for example [https://editor.p5js.org/maartenwijntjes/full/sCLGJg6H](https://editor.p5js.org/maartenwijntjes/full/sCLGJg6H).
