@@ -125,16 +125,9 @@ UPDATE: The Rubric
 After this part, you will be able to prepare, conduct and interpret empirical research related to visual communication. You will become familiar with standard paradigms such as visual search, change blindness, eye & mouse tracking, conspicuity, etc. You will know the strength but also weaknesses of empirical research and able to assess empirical results critically.
 
 ### Instructions
-<!--Choose 2 images from the 6 you used in part 1.--> Choose 1 image (per person). Formulate hypotheses for which you need empirical insight and explain the connection between hypothesis and paradigm (= the type of experiment). Use 2 different paradigms in each image, so you can also reflect on different types of information you can extract. Go to the (<a href="{{site.baseurl}}/paradigms">experimental paradigms</a>) page for more info, but be warned: you do not _have_ to use these, feel free to come up with your own ways of evaluating.
+Formulate hypotheses for which you need empirical insight and explain the connection between hypothesis and paradigm (= the type of experiment). Use 2 different paradigms per image, so you can also reflect on different types of information you can extract. Go to the (<a href="{{site.baseurl}}/paradigms">experimental paradigms</a>) page for more info, but be warned: you do not _have_ to use these, feel free to come up with your own ways of evaluating.
 
-### Deliverables
-A pdf that includes the following (brief) sections:
-- Image name
-- Question (either a hypothesis or explorative question)
-- Experimental paradigm
-- Method (how many observers, what procedure etc)
-- Result (some text and graphs)
-- Discussion (interpretation of results)
+
 
 ### Assessment criteria
 For Part 2 we will use the following criteria:
@@ -161,9 +154,6 @@ In the last part you will learn how to use code for visual sketching. We will us
 ### Instructions
 You now select one image that you will use as a starting point for your P5 sketch. In this sketch, you are relatively free to communicate an insight about the work of art you choose for this last part of the assignment. This can be (partly) based on the insights you explicitly gained in the analysis (I) and/or evaluation (II) part, but it can also be something else you discovered.  
 
-### Deliverables
-A 1 page pdf that contains a reflecton about how you approached the problem and what kind of iterations you went through. Word limit is 300 words. It should also include a link using Share ➡️ Fullscreen, for example [https://editor.p5js.org/maartenwijntjes/full/sCLGJg6H](https://editor.p5js.org/maartenwijntjes/full/sCLGJg6H).
-
 ### Assessment criteria
 For Part 3 we will use the following criteria:
 * New: combines or creates something new
@@ -172,3 +162,9 @@ For Part 3 we will use the following criteria:
 
 UPDATE: The Rubric
 ![alt text](images/rubrics3.png "Rubric Part 3" )
+
+
+## Deliverables
+
+
+A 1 page pdf that contains a reflecton about how you approached the problem and what kind of iterations you went through. Word limit is 300 words. It should also include a link using Share ➡️ Fullscreen, for example [https://editor.p5js.org/maartenwijntjes/full/sCLGJg6H](https://editor.p5js.org/maartenwijntjes/full/sCLGJg6H).
