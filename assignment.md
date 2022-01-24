@@ -5,7 +5,12 @@
 You can use the reader (VCD) and our lectures as resource material. We will explain all the basics of perception and design. If you need more resources I recommend Visual Thinking for Design (perception & design) and Ways of Seeing (meaning).  
 -->
 
-This assignment will introduce you to various aspects of visual communication design. In the first part you will learn about visual communication by analysing pictures *theoretically*, i.e. based on what you know from reading materials, lectures and own insights/reasoning. In the second part you will use an *empirical* approach and conduct experiments. The last part requires a *creative* approach, where you will design your own form of visual communication. 
+This assignment will introduce you to various aspects of visual communication design. In the first part you will learn about visual communication by analysing pictures *theoretically*, i.e. based on what you know from reading materials, lectures and own insights/reasoning. In the second part you will use an *empirical* approach and conduct experiments. The last part requires a *creative* approach, where you will design your own form of visual communication.
+
+
+![alt text](images/cycle.png "Research cycle")
+
+
 
 <!--Before starting the assignment, you will choose 6 images from our <a href="{{site.baseurl}}/selection2021">selection</a>. We carefully curated a set of interesting works that fit the course' context well. You will start with 6 images in the first part part 1, 2 for second part and 1 for the last part:
 -->
