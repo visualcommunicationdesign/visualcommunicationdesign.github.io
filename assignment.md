@@ -105,8 +105,10 @@ For Part 1 we will use the following criteria:
 * Clear: is the analysis presented in an understandable way?
 * New: did you create novel insights.
 
-UPDATE: The Rubric
+<!--PDATE: The Rubric
 ![alt text](images/Rubrics1.png "Rubric Part 1")
+-->
+
 
 <!--### Rubric
 ![alt text](images/Rubrics1.png "Rubric Part 1")-->
@@ -135,8 +137,9 @@ For Part 2 we will use the following criteria:
 * Clear: are the results clearly presented?
 * True: is the interpretation of results critical?
 
-UPDATE: The Rubric
+<!--UPDATE: The Rubric
 ![alt text](images/rubrics2.png "Rubric Part 2")
+-->
 
 <!--
 ### Dates
@@ -160,9 +163,9 @@ For Part 3 we will use the following criteria:
 * Relevant: reflection
 * Like: 🙂
 
-UPDATE: The Rubric
+<!--UPDATE: The Rubric
 ![alt text](images/rubrics3.png "Rubric Part 3" )
-
+-->
 
 ## Deliverables
 
