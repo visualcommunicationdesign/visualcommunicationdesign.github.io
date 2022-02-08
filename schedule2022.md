@@ -14,18 +14,19 @@ Each *Monday* there is time for self study and we also scheduled a number of tra
 3.2		| 17-feb (13:45-15:30)		| Lecture - Catelijne van Middelkoop			| VCD zoom
 3.3		| 21-feb (9:00-10:30)		| Introduction to p5.js	(group 1)		| IO-PC hall 1 (ENTER)
 3.3		| 21-feb (10:45-12:15)		| Introduction to p5.js	(group 2)		| IO-PC hall 1 (ENTER)
-3.3		| 24-feb (13:45-15:30)		| Lecture - Jeroen Stumpel				| VCD zoom
+3.3		| 24-feb (13:45-15:30)		| Lecture - Jeroen Stumpel	| IO-Joost van der Grinten
 3.4		| 28-feb (8:45-12:30)		| Read chapter 4 -  Coding train 5-6		| self study
-3.4		| 3-mar (13:45-15:30)		| General meeting - Colour & Light			| VCD zoom
-3.5		| 7-mar (8:45-12:30)		| Read chapter 5 -  Coding train 7			| self study
-3.5		| 10-mar (13:45-15:30)		| General meeting - Space					| VCD zoom
+3.4		| 3-mar (13:45-15:30)		| General meeting - Colour & Light			| IO-Joost van der Grinten
+3.5		| 7-mar (9:00-10:30)		| Paradigms with p5.js (group 2)			| TBA
+3.5		| 7-mar (10:45-12:15)		| Paradigms with p5.js (group 1)			| TBA
+3.5		| 10-mar (13:45-15:30)		| General meeting - Space					| IO-Joost van der Grinten
 3.6		| 14-mar (8:45-12:30)		| P5 practical training online - I			| VCD zoom
-3.6		| 17-mar (13:45-15:30)		| General meeting - Feedback part 1/2		| VCD zoom
+3.6		| 17-mar (13:45-15:30)		| Feedback part 1		| IO-Joost van der Grinten
 3.7		| 21-mar (8:45-12:30)		| P5 practical training online - II 		| VCD zoom
-3.7		| 24-mar (13:45-15:30)		| General meeting - Feedback part 1/2/3		| VCD zoom
+3.7		| 24-mar (13:45-15:30)		| Feedback part 2		| IO-Joost van der Grinten
 3.8		| 28-mar (8:45-12:30)		| P5 practical training online - III 		| VCD zoom
-3.8		| 31-mar (13:45-15:30)		| General meeting - Feedback part 3			| VCD zoom
-3.9		| 7-apr (13:45-15:30)		| Final meeting								| VCD zoom
+3.8		| 31-mar (13:45-15:30)		| Feedback part 3			| IO-Joost van der Grinten
+3.9		| 7-apr (13:45-15:30)		| Final meeting								| IO-Joost van der Grinten
 
 
 ## Deadlines
