@@ -2,28 +2,30 @@
 ## Lecture schedule (2022)
 
 
-Each Thursday we will meet online between 14:45-16:30 to discuss and answer questions. Prior to these sessions you can listen/watch the lectures, read the book chapter and work on your weekly coding skill progress. The lectures and chapters will be posted on BrightSpace. The Coding train activities are there to give some guideline of progress that will let you enjoy Part 3 of the assignment most.
+Each *Thursday* we will meet between 13:45-15:30 for lectures and discussion. The first 2 weeks will certainly be online, the remainder might be in the Joost van de Grinten hall, but that depends on future Covid regulations.
 
+Each *Monday* there is time for self study and we also scheduled a number of training sessions to work on your coding skills and peer feedback for the assignment.
 
 
 --- | --- | ---
 **week**| **date**					| **what**									| **where**
-3.1		| 10-feb (14:45-16:30)		| General meeting 1							| VCD zoom
-3.2		| 14-feb (8:45-12:30)		| Chapter 1/2 - Coding train 1-2			| self study
-3.2		| 17-feb (14:45-16:30)		| General meeting - Perception				| VCD zoom
-3.3		| 21-feb (8:45-12:30)		| Read chapter 3 - Coding train 3-4			| self study
-3.3		| 24-feb (14:45-16:30)		| General meeting - Texture 				| VCD zoom
+3.1		| 10-feb (13:45-15:30)		| Opening Lecture - Maarten Wijntjes						| VCD zoom
+3.2		| 14-feb (8:45-12:30)		| Read book and do Coding Train exercises			| self study
+3.2		| 17-feb (13:45-15:30)		| Lecture - Catelijne van Middelkoop			| VCD zoom
+3.3		| 21-feb (9:00-10:30)		| Introduction to p5.js	(group 1)		| IO-PC hall 1 (ENTER)
+3.3		| 21-feb (10:45-12:15)		| Introduction to p5.js	(group 2)		| IO-PC hall 1 (ENTER)
+3.3		| 24-feb (13:45-15:30)		| Lecture - Jeroen Stumpel				| VCD zoom
 3.4		| 28-feb (8:45-12:30)		| Read chapter 4 -  Coding train 5-6		| self study
-3.4		| 3-mar (14:45-16:30)		| General meeting - Colour & Light			| VCD zoom
+3.4		| 3-mar (13:45-15:30)		| General meeting - Colour & Light			| VCD zoom
 3.5		| 7-mar (8:45-12:30)		| Read chapter 5 -  Coding train 7			| self study
-3.5		| 10-mar (14:45-16:30)		| General meeting - Space					| VCD zoom
+3.5		| 10-mar (13:45-15:30)		| General meeting - Space					| VCD zoom
 3.6		| 14-mar (8:45-12:30)		| P5 practical training online - I			| VCD zoom
-3.6		| 17-mar (14:45-16:30)		| General meeting - Feedback part 1/2		| VCD zoom
+3.6		| 17-mar (13:45-15:30)		| General meeting - Feedback part 1/2		| VCD zoom
 3.7		| 21-mar (8:45-12:30)		| P5 practical training online - II 		| VCD zoom
-3.7		| 24-mar (14:45-16:30)		| General meeting - Feedback part 1/2/3		| VCD zoom
+3.7		| 24-mar (13:45-15:30)		| General meeting - Feedback part 1/2/3		| VCD zoom
 3.8		| 28-mar (8:45-12:30)		| P5 practical training online - III 		| VCD zoom
-3.8		| 31-mar (14:45-16:30)		| General meeting - Feedback part 3			| VCD zoom
-3.9		| 7-apr (14:45-16:30)		| Final meeting								| VCD zoom
+3.8		| 31-mar (13:45-15:30)		| General meeting - Feedback part 3			| VCD zoom
+3.9		| 7-apr (13:45-15:30)		| Final meeting								| VCD zoom
 
 
 ## Deadlines

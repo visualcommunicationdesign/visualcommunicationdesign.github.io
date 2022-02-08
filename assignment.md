@@ -5,13 +5,13 @@
 You can use the reader (VCD) and our lectures as resource material. We will explain all the basics of perception and design. If you need more resources I recommend Visual Thinking for Design (perception & design) and Ways of Seeing (meaning).  
 -->
 
-This assignment will introduce you to various aspects of visual communication design. In the first part you will learn about visual communication by analysing pictures *theoretically*, i.e. based on what you learned from the lectures and reading materials. In the second part you will use an *empirical* approach and conduct experiments. The last part requires a *creative* approach, where you will design your own form of visual communication.
+In this assignment you will explore various aspects of visual communication design. In the first part you will analyse pictures *theoretically*, i.e. based on what you learned from the lectures and reading materials. In the second part you will use an *empirical* approach and conduct experiments. The last part requires a *creative* approach, where you will design your own form of visual communication.
 
 
 
 
-<!--Before starting the assignment, you will choose 6 images from our <a href="{{site.baseurl}}/selection2021">selection</a>. We carefully curated a set of interesting works that fit the course' context well. You will start with 6 images in the first part part 1, 2 for second part and 1 for the last part:
--->
+Before starting the assignment, you will choose 4 images from this years <a href="{{site.baseurl}}/selection2022">collection</a>. We curated a set of interesting works that fit the course' context well. Throughout the assignment you will work with these 4 images.
+
 
 
 
@@ -29,8 +29,11 @@ We will use the CoNTRoL assessment criteria also used in [Context and Conceptual
 
 ### Introduction
 
+You are going to form and defend an opinion about the pictures.
 
-<!--You can analyse a picture in a million different ways, so we need some kind of framework. We believe the Jakobson model is well suited to address  important elements of visual communication. This model consists of 6 elements that serve as a framework to start your thinking about visual communication.
+<!--You can analyse a picture in a million different ways, so ideally we would need some kind of framework.
+
+We believe the Jakobson model is well suited to address  important elements of visual communication. This model consists of 6 elements that serve as a framework to start your thinking about visual communication.
 
 
 
