@@ -6,9 +6,9 @@ A complete list of p5.js paradigms can be found [here](https://editor.p5js.org/d
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](content/paradigms/visualsearch-experiment.gif) [Visual search](#visual-search)|![](content/paradigms/changeblindness-experiment.gif) [Change blindness](#change-blindness)|![](content/paradigms/conspicuity-experiment.gif) [Conspicuity](#conspicuity)
 :-------------------------:|:-------------------------:|:-------------------------:
-![](content/paradigms/bubbleview-experiment.gif) [BubbleView](#BubbleView)|![](content/paradigms/attributerating-experiment.gif) [Rating](#Attribute rating)|![](content/paradigms/similarity-experiment.gif) [Similarity](#Similarity)
+![](content/paradigms/bubbleview-experiment.gif) [BubbleView](#bubbleview)|![](content/paradigms/attributerating-experiment.gif) [Rating](#attribute-rating)|![](content/paradigms/similarity-experiment.gif) [Similarity](#similarity)
 :-------------------------:|:-------------------------:|:-------------------------:
-![](content/paradigms/codecharts-experiment.gif) [CodeCharts](#CodeCharts)|![](content/paradigms/zoommaps-experiment.gif) [ZoomMaps](#ZoomMaps)|![](content/paradigms/importannots-experiment.gif) [ImportAnnots](#ImportAnnots)
+![](content/paradigms/codecharts-experiment.gif) [CodeCharts](#codecharts)|![](content/paradigms/zoommaps-experiment.gif) [ZoomMaps](#zoommaps)|![](content/paradigms/importannots-experiment.gif) [ImportAnnots](#importannots)
 
 
 
