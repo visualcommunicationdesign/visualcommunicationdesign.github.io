@@ -6,7 +6,7 @@ A complete list of p5.js paradigms can be found [here](https://editor.p5js.org/d
 # Selection
 
 :-------------------------:|:-------------------------:|:-------------------------:
-![](content/paradigms/visualsearch-experiment.gif) [search](#visual-search))|![](content/2022/9.jpg) [search](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2022/9.jpg)|![](content/2022/9.jpg) [search](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2022/9.jpg)
+![](content/paradigms/visualsearch-experiment.gif) [Visual search](#visual-search)|![](content/paradigms/changeblindness-experiment) [Change blindness](#change-blindness)|![](content/paradigms/conspicuity-experiment) [Conspicuity](#conspicuity)
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](content/2022/5.jpg) [search](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2022/5.jpg)|![](content/2022/9.jpg) [search](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2022/9.jpg)|![](content/2022/9.jpg) [search](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2022/9.jpg)
 :-------------------------:|:-------------------------:|:-------------------------:
