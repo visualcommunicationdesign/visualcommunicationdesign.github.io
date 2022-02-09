@@ -32,7 +32,7 @@ UPDATE: I made some crappy videos!
 * **What**: search for a predefined target in a scene
 * **Independent variables**: Target, scene
 * **Dependent variables**: reaction time, accuracy
-* [**P5 code **](https://editor.p5js.org/dakerlogend/sketches/iE1Ojwu7g)
+* [**P5 code**](https://editor.p5js.org/dakerlogend/sketches/iE1Ojwu7g)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5pmQ_3caZzM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -42,7 +42,7 @@ UPDATE: I made some crappy videos!
 * **What**: search for something changing in a scene
 * **Independent variables**: Target, scene
 * **Dependent variables**: reaction time, accuracy
-* [**P5 code **](https://editor.p5js.org/dakerlogend/sketches/17hJCwQEZ)
+* [**P5 code**](https://editor.p5js.org/dakerlogend/sketches/17hJCwQEZ)
 
 
 
