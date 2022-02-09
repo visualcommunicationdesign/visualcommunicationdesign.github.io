@@ -70,7 +70,7 @@ UPDATE: I made some crappy videos!
 
 
 ## BubbleView
-* **What**: [this](http://bubbleview.namwkim.org)
+* **What**: One of the four attention experiments from [TurkEyes](https://turkeyes.mit.edu) that approximate eye movements, [also](http://bubbleview.namwkim.org)
 * **Independent variables**: Scene
 * **Dependent variables**: Attention positions, order.
 * [**P5 code**](https://editor.p5js.org/dakerlogend/sketches/T-YiZeXgk)
@@ -103,16 +103,19 @@ UPDATE: I made some crappy videos!
 
 ## CodeCharts
 
-https://www.youtube.com/embed/85uTACxHq-8
+* **What**: One of the four attention experiments from [TurkEyes](https://turkeyes.mit.edu) that approximate eye movements.
+* **Independent variables**: Scene
+* **Dependent variables**: Attention positions, order.
+* [**P5 code**](https://editor.p5js.org/dakerlogend/sketches/X3doxa_q7)
+* [**P5 code (visualizer)**](https://editor.p5js.org/dakerlogend/sketches/uFxP2vdZ28)
 
-https://editor.p5js.org/dakerlogend/sketches/X3doxa_q7
-
-visibility
-
-https://editor.p5js.org/dakerlogend/sketches/uFxP2vdZ28
+<iframe width="560" height="315" src="https://www.youtube.com/embed/85uTACxHq-8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## ZoomMaps
+* **What**: One of the four attention experiments from [TurkEyes](https://turkeyes.mit.edu) that approximate eye movements.
+* **Independent variables**: Scene
+* **Dependent variables**: Attention positions, order.
 
 https://www.youtube.com/embed/--B-dGaIo-E
 
@@ -122,6 +125,9 @@ https://editor.p5js.org/dakerlogend/sketches/wgtNncehI
 
 
 ## ImportAnnots
+* **What**: One of the four attention experiments from [TurkEyes](https://turkeyes.mit.edu) that approximate eye movements.
+* **Independent variables**: Scene
+* **Dependent variables**: Attention positions, order.
 
 https://www.youtube.com/embed/lPS2uj8beWQ
 
