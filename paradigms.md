@@ -22,7 +22,7 @@ UPDATE: I made some crappy videos!
 * **Dependent variables**: reaction time, accuracy
 * [**P5 code **](https://editor.p5js.org/dakerlogend/sketches/iE1Ojwu7g)
 
-<iframe width="560" height="315" src="https://youtu.be/5pmQ_3caZzM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5pmQ_3caZzM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -34,7 +34,7 @@ UPDATE: I made some crappy videos!
 
 
 
-<iframe width="560" height="315" src="https://youtu.be/g1WGgy-9VTo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g1WGgy-9VTo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <!--
@@ -54,7 +54,7 @@ UPDATE: I made some crappy videos!
 * [**P5 code**](https://editor.p5js.org/dakerlogend/sketches/mW4xJwQNr)
 * [**P5 code (visualizer)**](https://editor.p5js.org/dakerlogend/sketches/M7R_AcNzI)
 
-<iframe width="560" height="315" src="https://youtu.be/KNIUlgb48TA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KNIUlgb48TA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -65,7 +65,7 @@ UPDATE: I made some crappy videos!
 * [**P5 code**](https://editor.p5js.org/dakerlogend/sketches/T-YiZeXgk)
 * [**P5 code (visualizer)**](https://editor.p5js.org/dakerlogend/sketches/t6WeZ9NX0)
 
-<iframe width="560" height="315" src="https://youtu.be/lqmTn996iLE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lqmTn996iLE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
