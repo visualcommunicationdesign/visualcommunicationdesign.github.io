@@ -3,14 +3,13 @@
 A complete list of p5.js paradigms can be found [here](https://editor.p5js.org/dakerlogend/collections/4vN1vG_uX)
 
 
-# Selection
-
+:-------------------------:|:-------------------------:|:-------------------------:
+![](content/paradigms/visualsearch-experiment.gif) [Visual search](#visual-search)|![](content/paradigms/changeblindness-experiment.gif) [Change blindness](#change-blindness)|![](content/paradigms/conspicuity-experiment.gif) [Conspicuity](#conspicuity)
+:-------------------------:|:-------------------------:|:-------------------------:
+![](content/paradigms/bubbleview-experiment.gif) [BubbleView](#BubbleView)|![](content/paradigms/attributerating-experiment.gif) [Rating](#Attribute rating)|![](content/paradigms/similarity-experiment.gif) [Similarity](#Similarity)
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](content/paradigms/visualsearch-experiment.gif) [Visual search](#visual-search)|![](content/paradigms/changeblindness-experiment) [Change blindness](#change-blindness)|![](content/paradigms/conspicuity-experiment) [Conspicuity](#conspicuity)
-:-------------------------:|:-------------------------:|:-------------------------:
-![](content/2022/5.jpg) [search](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2022/5.jpg)|![](content/2022/9.jpg) [search](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2022/9.jpg)|![](content/2022/9.jpg) [search](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2022/9.jpg)
-:-------------------------:|:-------------------------:|:-------------------------:
-![](content/2022/5.jpg) [search](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2022/5.jpg)|![](content/2022/9.jpg) [search](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2022/9.jpg)|![](content/2022/9.jpg) [search](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2022/9.jpg)
+
 
 
 
