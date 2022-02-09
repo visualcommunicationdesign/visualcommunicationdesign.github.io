@@ -116,27 +116,22 @@ UPDATE: I made some crappy videos!
 * **What**: One of the four attention experiments from [TurkEyes](https://turkeyes.mit.edu) that approximate eye movements.
 * **Independent variables**: Scene
 * **Dependent variables**: Attention positions, order.
+* [**P5 code**](https://editor.p5js.org/dakerlogend/sketches/A29zZLTQO)
+* [**P5 code (visualizer)**](https://editor.p5js.org/dakerlogend/sketches/wgtNncehI)
 
-https://www.youtube.com/embed/--B-dGaIo-E
+<iframe width="560" height="315" src="https://www.youtube.com/embed/--B-dGaIo-E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-https://editor.p5js.org/dakerlogend/sketches/A29zZLTQO
-visualizer
-https://editor.p5js.org/dakerlogend/sketches/wgtNncehI
+
 
 
 ## ImportAnnots
 * **What**: One of the four attention experiments from [TurkEyes](https://turkeyes.mit.edu) that approximate eye movements.
 * **Independent variables**: Scene
 * **Dependent variables**: Attention positions, order.
+* [**P5 code**](https://editor.p5js.org/dakerlogend/sketches/1CuAzmZsc)
+* [**P5 code (visualizer)**](https://editor.p5js.org/dakerlogend/sketches/XiKe51zd2)
 
-https://www.youtube.com/embed/lPS2uj8beWQ
-
-https://editor.p5js.org/dakerlogend/sketches/1CuAzmZsc
-
-visualizer
-
-https://editor.p5js.org/dakerlogend/sketches/XiKe51zd2
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lPS2uj8beWQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
