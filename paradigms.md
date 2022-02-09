@@ -8,7 +8,7 @@ A complete list of p5.js paradigms can be found [here](https://editor.p5js.org/d
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](content/paradigms/bubbleview-experiment.gif) [BubbleView](#BubbleView)|![](content/paradigms/attributerating-experiment.gif) [Rating](#Attribute rating)|![](content/paradigms/similarity-experiment.gif) [Similarity](#Similarity)
 :-------------------------:|:-------------------------:|:-------------------------:
-![](content/paradigms/visualsearch-experiment.gif) [Visual search](#visual-search)|![](content/paradigms/changeblindness-experiment) [Change blindness](#change-blindness)|![](content/paradigms/conspicuity-experiment) [Conspicuity](#conspicuity)
+![](content/paradigms/codecharts-experiment.gif) [CodeCharts](#CodeCharts)|![](content/paradigms/zoommaps-experiment.gif) [ZoomMaps](#ZoomMaps)|![](content/paradigms/importannots-experiment.gif) [ImportAnnots](#ImportAnnots)
 
 
 
