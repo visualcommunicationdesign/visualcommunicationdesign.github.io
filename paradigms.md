@@ -2,6 +2,23 @@
 
 A complete list of p5.js paradigms can be found [here](https://editor.p5js.org/dakerlogend/collections/4vN1vG_uX)
 
+
+# Selection
+
+:-------------------------:|:-------------------------:|:-------------------------:
+![](content/2022/5.jpg) [search](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2022/5.jpg)|
+![](content/2022/9.jpg) [search](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2022/9.jpg)|
+![](content/2022/9.jpg) [search](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2022/9.jpg)
+:-------------------------:|:-------------------------:|:-------------------------:
+![](content/2022/5.jpg) [search](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2022/5.jpg)|
+![](content/2022/9.jpg) [search](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2022/9.jpg)|
+![](content/2022/9.jpg) [search](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2022/9.jpg):-------------------------:|:-------------------------:|:-------------------------:
+![](content/2022/5.jpg) [search](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2022/5.jpg)|
+![](content/2022/9.jpg) [search](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2022/9.jpg)|
+![](content/2022/9.jpg) [search](https://images.google.com/searchbyimage?image_url=https://visualcommunicationdesign.github.io/content/2022/9.jpg)
+
+
+
 <!--Some examples of independent and dependent variables are provided. **Independent variables** are the factors you control (e.g. whether something is shown on colour or in grayscale) while **dependent variables** are what you measure (e.g. reaction time). -->
 
 <!--Please check either check [Vision and Depiction (Draft)](https://homepage.tudelft.nl/w3s80/VisionAndDepiction.html#pf63) or search for the paradigm names if you want more info. -->
@@ -74,9 +91,9 @@ UPDATE: I made some crappy videos!
 * **Independent variables**: Attributes (do the same experiment with different adjectives), any stimulus variation
 * **Dependent variables**: Rating value
 * **Data analysis**: If you measure a bunch of attributes, you can perform [PCA](https://en.wikipedia.org/wiki/Principal_component_analysis). But simple correlations are also interesting.
-* [**P5 code**](https://editor.p5js.org/Fairyland201/full/TW-AMw7B)
+* [**P5 code**](https://editor.p5js.org/dakerlogend/sketches/qjxNtVS6K)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qlxVHdPNP28" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/45KYxh955GA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -85,18 +102,52 @@ UPDATE: I made some crappy videos!
 * **Independent variables**:
 * **Dependent variables**: Similarity rating
 * **Data analysis**: the similarity data can be used for [MDS](https://en.wikipedia.org/wiki/Multidimensional_scaling)
-* [**P5 code**](https://editor.p5js.org/Fairyland201/full/neTAQAxs)
+* [**P5 code**](https://editor.p5js.org/dakerlogend/sketches/zmR7yZwK5)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9NjVbXw4MX4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u6vXB4tb4ho" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## CodeCharts
+
+https://www.youtube.com/embed/85uTACxHq-8
+
+https://editor.p5js.org/dakerlogend/sketches/X3doxa_q7
+
+visibility
+
+https://editor.p5js.org/dakerlogend/sketches/uFxP2vdZ28
+
+
+## ZoomMaps
+
+https://www.youtube.com/embed/--B-dGaIo-E
+
+https://editor.p5js.org/dakerlogend/sketches/A29zZLTQO
+visualizer
+https://editor.p5js.org/dakerlogend/sketches/wgtNncehI
+
+
+## ImportAnnots
+
+https://www.youtube.com/embed/lPS2uj8beWQ
+
+https://editor.p5js.org/dakerlogend/sketches/1CuAzmZsc
+
+visualizer
+
+https://editor.p5js.org/dakerlogend/sketches/XiKe51zd2
 
 
 
-## Matching
+
+<!--## Matching
 * **What**: Parametric matching (in this case colour)
 * **Independent variables**: Scene, observer (colour blind, etc)
 * **Dependent variables**: (colour) parameters
 * [**P5 code**](https://editor.p5js.org/maartenwijntjes/full/q7sJV6m7)
 * No video yet
+
+
 
 ## Classification (words)
 * **What**: Classifying a picture with predefined set of words (free wording is also interesting, but complex)
@@ -111,3 +162,4 @@ UPDATE: I made some crappy videos!
 * [**P5 code**](https://editor.p5js.org/mjpvz/full/V5-fXRQI)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rlTD-7qwrFQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+-->
