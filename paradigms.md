@@ -30,12 +30,11 @@ UPDATE: I made some crappy videos!
 * **What**: search for something changing in a scene
 * **Independent variables**: Target, scene
 * **Dependent variables**: reaction time, accuracy
-* [**P5 code (single trial, no reaction time)**](https://editor.p5js.org/maartenwijntjes/full/GgLwmPwFo)
-* [**P5 code (multiple trials, reaction time and click positions)**](https://editor.p5js.org/maartenwijntjes/sketches/Tr_Pnr051)
+* [**P5 code **](https://editor.p5js.org/dakerlogend/sketches/17hJCwQEZ)
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r6aZ9soygqQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/g1WGgy-9VTo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <!--
@@ -52,11 +51,10 @@ UPDATE: I made some crappy videos!
 * **What**: introspectively judge visibility of a peripheral target
 * **Independent variables**: Target, scene
 * **Dependent variables**: distance
-* [**P5 code**](https://editor.p5js.org/maartenwijntjes/full/cPBdpHIrD)
+* [**P5 code**](https://editor.p5js.org/dakerlogend/sketches/mW4xJwQNr)
+* [**P5 code (visualizer)**](https://editor.p5js.org/dakerlogend/sketches/M7R_AcNzI)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPWBXqSaSxY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
+<iframe width="560" height="315" src="https://youtu.be/KNIUlgb48TA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -64,9 +62,10 @@ UPDATE: I made some crappy videos!
 * **What**: [this](http://bubbleview.namwkim.org)
 * **Independent variables**: Scene
 * **Dependent variables**: Attention positions, order.
-* [**P5 code**](https://editor.p5js.org/maartenwijntjes/full/Uq_K0yPI)
+* [**P5 code**](https://editor.p5js.org/dakerlogend/sketches/T-YiZeXgk)
+* [**P5 code (visualizer)**](https://editor.p5js.org/dakerlogend/sketches/t6WeZ9NX0)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RkKZK0pSRbk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/lqmTn996iLE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
