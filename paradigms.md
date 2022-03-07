@@ -134,6 +134,12 @@ UPDATE: I made some crappy videos!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lPS2uj8beWQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+## Categorisation (with icons)
+* **What**: Multiple choice question using images (in this case the PreMo tool to measure emotion)
+* **Independent variables**: Scene
+* **Dependent variables**: Whatever categorical variable you like.
+* [**P5 code**](https://editor.p5js.org/dakerlogend/full/zH7RDi5w6)
+
 
 <!--## Matching
 * **What**: Parametric matching (in this case colour)
