@@ -1,7 +1,7 @@
 # Selection
 
 :-------------------------:|:-------------------------:
-![](content/2023/52.jpg) id: 52_2023 [search](https://www.bing.com/images/search?view=detailv2&iss=sbi&form=SBIVSP&sbisrc=UrlPaste&q=imgurl:https://visualcommunicationdesign.github.io/content/2023/52.jpg)|![](content/2023/29.jpg) id: 29_2023 [search](https://www.bing.com/images/search?view=detailv2&iss=sbi&form=SBIVSP&sbisrc=UrlPaste&q=imgurl:https://visualcommunicationdesign.github.io/content/2023/29.jpg)
+[![Foo](https://visualcommunicationdesign.github.io/content/2023/52.jpg)](https://visualcommunicationdesign.github.io/content/2023/52.jpg) id: 52_2023 [search](https://www.bing.com/images/search?view=detailv2&iss=sbi&form=SBIVSP&sbisrc=UrlPaste&q=imgurl:https://visualcommunicationdesign.github.io/content/2023/52.jpg)|![](content/2023/29.jpg) id: 29_2023 [search](https://www.bing.com/images/search?view=detailv2&iss=sbi&form=SBIVSP&sbisrc=UrlPaste&q=imgurl:https://visualcommunicationdesign.github.io/content/2023/29.jpg)
 :-------------------------:|:-------------------------:
 ![](content/2023/10.jpg) id: 10_2023 [search](https://www.bing.com/images/search?view=detailv2&iss=sbi&form=SBIVSP&sbisrc=UrlPaste&q=imgurl:https://visualcommunicationdesign.github.io/content/2023/10.jpg)|![](content/2023/21.jpg) id: 21_2023 [search](https://www.bing.com/images/search?view=detailv2&iss=sbi&form=SBIVSP&sbisrc=UrlPaste&q=imgurl:https://visualcommunicationdesign.github.io/content/2023/21.jpg)
 :-------------------------:|:-------------------------:
