@@ -6,6 +6,12 @@
 <!--<script type="text/javascript" src="sketches/background_sketch.js"></script>-->
 <div id="content" markdown="1">
 
+
+## UPDATE: this year (2023) all relevant info is on Notion.
+We did update the image collection of this year, for the rest the info is slightly outdated as it is from last year. 
+
+
+
 ## Introduction
 
 Welcome to the online syllabus for Visual Communciation Design, a course for Design for Interaction (DfI) Master program students, and anyone else interested. The learning objectives of this course are to *analyse*, *evaluate* and *create* visual communication:
